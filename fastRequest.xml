@@ -104,7 +104,7 @@
       <ParamGroup>
         <option name="bodyParamMap">
           <map>
-            <entry key="leaderForm">
+            <entry key="leaderVO">
               <value>
                 <Object />
               </value>
@@ -112,12 +112,12 @@
           </map>
         </option>
         <option name="className" value="com.ot.oa.admin.controller.gzw.GzwController" />
-        <option name="method" value="listLeader" />
-        <option name="methodDescription" value="领导名单查询" />
+        <option name="method" value="getLeaderCalendarList" />
+        <option name="methodDescription" value="领导日程列表" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/services/gzw/leader" />
-        <option name="url" value="/services/gzw/leader" />
+        <option name="originUrl" value="/services/gzw/leader/schedule" />
+        <option name="url" value="/services/gzw/leader/schedule" />
       </ParamGroup>
     </option>
     <option name="projectList">
