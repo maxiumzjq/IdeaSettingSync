@@ -11,7 +11,7 @@
               </HostGroup>
               <HostGroup>
                 <option name="env" value="remote" />
-                <option name="url" value="http://128.23.73.70:8082/" />
+                <option name="url" value="http://128.23.67.174:7481" />
               </HostGroup>
             </list>
           </option>
@@ -91,8 +91,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:7481" />
-    <option name="enableEnv" value="dev" />
+    <option name="domain" value="http://128.23.67.174:7481" />
+    <option name="enableEnv" value="remote" />
     <option name="enableProject" value="oa" />
     <option name="envList">
       <list>
@@ -100,24 +100,55 @@
         <option value="remote" />
       </list>
     </option>
+    <option name="globalHeaderList">
+      <list>
+        <DataMapping>
+          <option name="type" value="x-auth-token" />
+          <option name="value" value="a" />
+        </DataMapping>
+        <DataMapping>
+          <option name="type" value="Accept-Sign-Ignore" />
+          <option name="value" value="BIGBIGGIRL" />
+        </DataMapping>
+      </list>
+    </option>
+    <option name="headerGroupList">
+      <list>
+        <HeaderGroup>
+          <option name="envMap">
+            <map>
+              <entry key="remote">
+                <value>
+                  <map>
+                    <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ7XCJhY2NvdW50XCI6XCJsaW54aWFvcWluZ1wiLFwiYmFzZVwiOntcImFjY291bnRcIjpcImxpbnhpYW9xaW5nXCIsXCJtb2JpbGVcIjpcIjEzMTY4OTU5NTYzXCIsXCJ1c2VybmFtZVwiOlwi5p6X5pmT5bqGXCJ9LFwiY29tcGFueUlkc1wiOltcIjViYjU1N2YxMDgzODQ3MWY4OWRhNWY1NDY3MzllMmMzXCJdLFwiY29tcGFueU5hbWVzXCI6W1wiZ3p3YWRtaW5cIl0sXCJjcmVhdGVUaW1lXCI6MTYzNDcxMDYwNTAwMCxcImN1cnJlbnREZXBhcnRtZW50SWRzXCI6W1wiZTcyODVmYzM1ZTMzNDcxODg4NDg2MTRjOTNjMDM5MjRcIl0sXCJjdXJyZW50RGVwYXJ0bWVudE5hbWVzXCI6W1wi6KeE5YiS5Y-R5bGV5aSEXCJdLFwiY3VycmVudERlcGFydG1lbnRTaG9ydE5hbWVzXCI6W1wi6KeE5YiS5Y-R5bGV5aSEXCJdLFwiY3VycmVudE9yZ0RnZGNOdW1iZXJcIjpcIk45OTk5NTdcIixcImN1cnJlbnRPcmdJZFwiOlwiNWJiNTU3ZjEwODM4NDcxZjg5ZGE1ZjU0NjczOWUyYzNcIixcImN1cnJlbnRPcmdOYW1lXCI6XCJnendhZG1pblwiLFwiZGVmYXVsdE9yZ0lkXCI6XCI1YmI1NTdmMTA4Mzg0NzFmODlkYTVmNTQ2NzM5ZTJjM1wiLFwiZGVmYXVsdE9yZ05hbWVcIjpcImd6d2FkbWluXCIsXCJkZWxldGVkXCI6MCxcImRlcGFydG1lbnRJZHNcIjpbXCJlNzI4NWZjMzVlMzM0NzE4ODg0ODYxNGM5M2MwMzkyNFwiXSxcImRlcGFydG1lbnROYW1lc1wiOltcImd6d2FkbWluLeinhOWIkuWPkeWxleWkhFwiXSxcImRnY2dOdW1iZXJcIjpcIk4xMDAzNDkwM1wiLFwiZW1haWxcIjpcIlwiLFwiam9ibnVtYmVyXCI6XCJcIixcImxhc3RNb2RpZnlUaW1lXCI6MTY0ODUyMjU0NDAwMCxcImxvZ2luZXJyb3Jjb3VudFwiOjAsXCJtZW1vXCI6XCJcIixcIm1vYmlsZVwiOlwiMTMxNjg5NTk1NjNcIixcInBvc2l0aW9uXCI6XCJcIixcInB3ZFwiOlwiXCIsXCJzZXhcIjoxLFwidGVsZXBob25lXCI6XCJcIixcInRlbmFudElkXCI6XCI2NTUxODgxZDE4ZTJmM2Q1NDY2NTRmOGE0NDk3YzJkN1wiLFwidXNlcklkXCI6XCIwOTc1NWYwYzM0NmQ0MjA2OTU2NzI2ZGY2YmMwZjA3YVwiLFwidXNlck9yZ0lkc1wiOlwiZTcyODVmYzM1ZTMzNDcxODg4NDg2MTRjOTNjMDM5MjRcIixcInVzZXJPcmdOYW1lc1wiOlwiZ3p3YWRtaW4t6KeE5YiS5Y-R5bGV5aSEXCIsXCJ1c2VyUm9sZUlkc1wiOlwiMmQzNjU4YmRlNDdmN2JmZThkYjU0NWE0OWNjYTRmNWU7NTQ2Njc4YWFiYWM3YjI0YWIyNzVjYWRiOWFmM2Q4YWNcIixcInVzZXJSb2xlTmFtZXNcIjpcImd6d2FkbWluLeWFrOWPuOWFqOS9k-eUqOaItztnendhZG1pbi3lpITplb8v5Ymv5aSE6ZW_XCIsXCJ1c2VybmFtZVwiOlwi5p6X5pmT5bqGXCJ9IiwiZXhwIjoxNjQ5Mzg5MTMxLCJpYXQiOjE2NDkzODczMzEsImp0aSI6ImxnOGM0YTFhOTQwNzI0NDYxM2JmMjMxN2IxOGJlMGYwIn0.gQxRu7jh4A_lSTi7jI3stDW81io5F6Q5ALk07fa9JpvBlVONogu7dImIXaKeaa6aOU_zZuwfgj4UFz6wWvJq_g" />
+                  </map>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="oa" />
+        </HeaderGroup>
+      </list>
+    </option>
     <option name="paramGroup">
       <ParamGroup>
         <option name="bodyParamMap">
           <map>
-            <entry key="leaderForm">
+            <entry key="annualLeaveDTO">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.ot.oa.admin.controller.gzw.GzwController" />
-        <option name="method" value="listLeader" />
-        <option name="methodDescription" value="领导名单查询" />
+        <option name="className" value="com.ot.oa.admin.controller.FullOfficeHolidayFlowController" />
+        <option name="method" value="insertAnnualLeave" />
+        <option name="methodDescription" value="新增年假管理信息" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/FullOfficeHolidayFlow/annualLeave" />
+        <option name="url" value="/FullOfficeHolidayFlow/annualLeave" />
       </ParamGroup>
     </option>
     <option name="projectList">
