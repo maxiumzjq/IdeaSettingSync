@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="current Has Read" />
+      <item value="ad)" />
       <item value="Previous Or Next User Mail Id DTO" />
       <item value="Previous Or Next User" />
       <item value="Previous Or Next User Mail Id" />
@@ -18,8 +20,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
