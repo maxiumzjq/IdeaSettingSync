@@ -146,7 +146,7 @@
         <option name="methodDescription" value="查询用户邮件详情" />
         <option name="methodType" value="GET" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/mail/{userMailId}" />
+        <option name="originUrl" value="" />
         <option name="pathParamMap">
           <map>
             <entry key="userMailId">
@@ -180,7 +180,7 @@
             </entry>
           </map>
         </option>
-        <option name="url" value="/mail/79508c10d31a486faf8b9bfd92f58d75" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
