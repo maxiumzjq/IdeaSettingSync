@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indices" />
       <item value="Delete the one object with provided id." />
       <item value="with" />
       <item value="ot" />
@@ -13,7 +14,6 @@
       <item value="if nothing needs to be customized" />
       <item value="options" />
       <item value="Index a document using the Index API." />
-      <item value="indices" />
       <item value="High level REST client that wraps an instance of the low level {@link RestClient} and allows to build requests and read responses. The {@link RestClient} instance is internally built based on the provided {@link RestClientBuilder} and it gets closed automatically when closing the {@link RestHighLevelClient} instance that wraps it. &lt;p&gt; In case an already existing instance of a low-level REST client needs to be provided, this class can be subclassed and the {@link RestHighLevelClient(RestClient, CheckedConsumer, List)} constructor can be used. &lt;p&gt; This class can also be sub-classed to expose additional client methods that make use of endpoints added to Elasticsearch through plugins, or to add support for custom response sections, again added to Elasticsearch through plugins. &lt;p&gt; The majority of the methods in this class come in two flavors, a blocking and an asynchronous version (e.g. {@link search(SearchRequest, RequestOptions)} and {@link searchAsync(SearchRequest, RequestOptions, ActionListener)}, where the later takes an implementation of an {@link ActionListener} as an argument that needs to implement methods that handle successful responses and failure scenarios. Most of the blocking calls can throw an {@link IOException} or an unchecked {@link ElasticsearchException} in the following cases: &lt;ul&gt; &lt;li&gt;an {@link IOException} is usually thrown in case of failing to parse the REST response in the high-level REST client, the request times out or similar cases where there is no response coming back from the Elasticsearch server&lt;li&gt; &lt;li&gt;an {@link ElasticsearchException} is usually thrown in case where the server returns a 4xx or 5xx error code. The high-level client then tries to parse the response body error details into a generic ElasticsearchException and suppresses the original {@link ResponseException}&lt;li&gt; &lt;ul&gt;" />
       <item value="IndexQuery Builder" />
       <item value="Immutable Value object encapsulating index name(s) and index type(s). Type names are supported but deprecated as Elasticsearch does not support types anymore." />
@@ -36,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="32" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
