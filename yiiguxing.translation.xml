@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <histories>
       <item value="indices" />
+      <item value="Delete By Query Request" />
+      <item value="Creates a new DeleteByQueryRequest that uses scrolling and bulk requests to delete all documents matching the query. This can have performance as well as visibility implications. Delete-by-query now has the following semantics: it's non-atomic, a delete-by-query may fail at any time while some documents matching the query have already been deleted it's syntactic sugar, a delete-by-query is equivalent to a scroll search and corresponding bulk-deletes by ID it's executed on a point-in-time snapshot, a delete-by-query will only delete the documents that are visible at the point in time the delete-by-query was started, equivalent to the scroll API it's consistent, a delete-by-query will yield consistent results across all replicas of a shard it's forward-compatible, a delete-by-query will only send IDs to the shards as deletes such that no queries are stored in the transaction logs that might not be supported in the future. it's results won't be visible until the index is refreshed." />
+      <item value="Validation Failed: 1: query is missing;" />
       <item value="Delete the one object with provided id." />
       <item value="with" />
       <item value="ot" />
@@ -36,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
