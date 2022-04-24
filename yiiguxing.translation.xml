@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="query defining the objects" />
       <item value="query defining the objects @param clazz The entity class, must be annotated with {@link org.springframework.data.elasticsearch.annotations.Document} @return response with detailed information" />
       <item value="indices" />
       <item value="Delete By Query Request" />
@@ -40,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
