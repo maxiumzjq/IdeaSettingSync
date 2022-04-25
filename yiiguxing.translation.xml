@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="QueryTests {" />
       <item value="the index where to update the records , must not be {@literal null}" />
       <item value="query defining the update, must not be {@literal" />
       <item value="Request to update some documents. That means you can't change their type, id, index, or anything like that. This implements CompositeIndicesRequest but in a misleading way. Rather than returning all the subrequests that it will make it tries to return a representative set of subrequests. This is best-effort but better than {@linkplain ReindexRequest} because scripts can't change the destination index and things." />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
