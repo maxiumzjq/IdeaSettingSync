@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="official Duties Id" />
+      <item value="al Duties Id;" />
+      <item value="PUBLIC DOC RECEIVE" />
       <item value="@implSpec The default implementation is equivalent to, for this {@code map}: &lt;pre&gt; {@code for (Map.Entry&lt;K, V&gt; entry : map.entrySet()) action.accept(entry.getKey(), entry.getValue()); }&lt;pre&gt; The default implementation makes no guarantees about synchronization or atomicity properties of this method. Any implementation providing atomicity guarantees must override this method and document its concurrency properties. @param action The action to be performed for each entry @throws NullPointerException if the specified action is null @throws ConcurrentModificationException if an entry is found to be removed during iteration @since 1.8" />
       <item value="Performs the given action for each entry in this map until all entries have been processed or the action throws an exception. Unless otherwise specified by the implementing class, actions are performed in the order of entry set iteration (if an iteration order is specified.) Exceptions thrown by the action are relayed to the caller." />
       <item value="the entity clazz used for property mapping and index name extraction" />
@@ -48,12 +51,11 @@
       <item value="领导名单" />
       <item value="领导名单列表" />
       <item value="list Leader" />
-      <item value="update setStartTime value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
