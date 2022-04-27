@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Index Datasource View" />
       <item value="index View List" />
       <item value="official Duties Id" />
       <item value="al Duties Id;" />
@@ -50,12 +51,11 @@
       <item value="update listLeader request param" />
       <item value="Leader Form" />
       <item value="领导名单" />
-      <item value="领导名单列表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
