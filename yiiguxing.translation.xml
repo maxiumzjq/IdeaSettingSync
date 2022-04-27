@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No property summary found for type NormalIndexData!" />
       <item value="Index Datasource View" />
       <item value="index View List" />
       <item value="official Duties Id" />
@@ -50,18 +51,17 @@
       <item value="business Data Id" />
       <item value="update listLeader request param" />
       <item value="Leader Form" />
-      <item value="领导名单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650614161331" />
+    <option name="lastTrimTime" value="1651051138103" />
   </component>
 </application>
