@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="index View List" />
       <item value="official Duties Id" />
       <item value="al Duties Id;" />
       <item value="PUBLIC DOC RECEIVE" />
@@ -50,12 +51,11 @@
       <item value="Leader Form" />
       <item value="领导名单" />
       <item value="领导名单列表" />
-      <item value="list Leader" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
