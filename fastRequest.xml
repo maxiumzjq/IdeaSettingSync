@@ -15,7 +15,7 @@
               </HostGroup>
               <HostGroup>
                 <option name="env" value="localhost" />
-                <option name="url" value="http://localhost:8089" />
+                <option name="url" value="http://localhost:7481" />
               </HostGroup>
             </list>
           </option>
@@ -96,7 +96,7 @@
       </list>
     </option>
     <option name="domain" value="http://localhost:7481" />
-    <option name="enableEnv" value="dev" />
+    <option name="enableEnv" value="localhost" />
     <option name="enableProject" value="oa" />
     <option name="envList">
       <list>
@@ -130,6 +130,14 @@
                   </map>
                 </value>
               </entry>
+              <entry key="localhost">
+                <value>
+                  <map>
+                    <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ7XCJhY2NvdW50XCI6XCJ0YW5ndGFuZ1wiLFwiYmFzZVwiOntcImFjY291bnRcIjpcInRhbmd0YW5nXCIsXCJtb2JpbGVcIjpcIjE4NTY1MTIwMDEyXCIsXCJ1c2VybmFtZVwiOlwi6auY546yMTJcIn0sXCJjb21wYW55SWRzXCI6W1wiYTlkNDY3MmQyMTc5NDIyNWI4MWM0ODM0NzMxMjllYTRcIixcImVmOTUyOWY2ZDAzMTQxNWFiNzZjMzI3NDA2MDFlYTdjXCJdLFwiY29tcGFueU5hbWVzXCI6W1wi6Zi_5Y-k5pavXCIsXCLmlbDlub9cIl0sXCJjcmVhdGVUaW1lXCI6MTYzNzAyNjU2NzAwMCxcImN1cnJlbnREZXBhcnRtZW50SWRzXCI6W10sXCJjdXJyZW50RGVwYXJ0bWVudE5hbWVzXCI6W10sXCJjdXJyZW50RGVwYXJ0bWVudFNob3J0TmFtZXNcIjpbXSxcImN1cnJlbnRPcmdEZ2RjTnVtYmVyXCI6XCJOMDAwMFwiLFwiY3VycmVudE9yZ0lkXCI6XCJlZjk1MjlmNmQwMzE0MTVhYjc2YzMyNzQwNjAxZWE3Y1wiLFwiY3VycmVudE9yZ05hbWVcIjpcIuaVsOW5v1wiLFwiZGVmYXVsdE9yZ0lkXCI6XCJlZjk1MjlmNmQwMzE0MTVhYjc2YzMyNzQwNjAxZWE3Y1wiLFwiZGVmYXVsdE9yZ05hbWVcIjpcIuaVsOW5v1wiLFwiZGVsZXRlZFwiOjAsXCJkZXBhcnRtZW50SWRzXCI6W1wiODg5NDUzMjIwNjIxNGQ2Njk3MGQ2ZDdmZmNkOWQyYzNcIl0sXCJkZXBhcnRtZW50TmFtZXNcIjpbXCLpmL_lj6Tmlq8t5oqA5pyv6YOoXCJdLFwiZGdjZ051bWJlclwiOlwiWGlUUkdRRXdIWmFzWjZFcmQ2OGpWa1wiLFwiZW1haWxcIjpcIlwiLFwiam9ibnVtYmVyXCI6XCJcIixcImxhc3RNb2RpZnlUaW1lXCI6MTY0ODYzNDIzNTAwMCxcImxvZ2luZXJyb3Jjb3VudFwiOjAsXCJtZW1vXCI6XCJcIixcIm1vYmlsZVwiOlwiMTg1NjUxMjAwMTJcIixcInBvc2l0aW9uXCI6XCJcIixcInB3ZFwiOlwiXCIsXCJzZXhcIjoxLFwidGVsZXBob25lXCI6XCJcIixcInRlbmFudElkXCI6XCI4NTUyYjI4ODIxNWQ0MmUxYzRjYmE2Y2ZmYmFlNjA1MFwiLFwidXNlcklkXCI6XCIxZTA3N2U2NjQyODE0NDc0YjdiZjdiMTEwNGZkMDYxZVwiLFwidXNlck9yZ0lkc1wiOlwiODg5NDUzMjIwNjIxNGQ2Njk3MGQ2ZDdmZmNkOWQyYzM7ZWY5NTI5ZjZkMDMxNDE1YWI3NmMzMjc0MDYwMWVhN2NcIixcInVzZXJPcmdOYW1lc1wiOlwi6Zi_5Y-k5pavLeaKgOacr-mDqDvmlbDlrZflub_kuJzlhazlj7hcIixcInVzZXJSb2xlSWRzXCI6XCIxNzAzODA3MjRlNmMzZGJhZDUyZDczZThmZjU4MGViMjtjOWUyMzM5MTcxMDI0Y2E5NWVkODFiNzk1ZGJmZWVlODs4MTk5NjE3OWIyMDdkNjRhOWI5ZjE2NjU3ZDZlMDJiYTthOGM0MDk1MzRhMzVjNjFiZmU0MWU1MGVmMTllODUyZlwiLFwidXNlclJvbGVOYW1lc1wiOlwi5pWw5bm_LeWFrOWPuOWFqOS9k-eUqOaItzvpmL_lj6Tmlq8t5YWs5Y-45YWo5L2T55So5oi3O-mYv-WPpOaWry3lj5HmlofnrqHnkIblkZg76Zi_5Y-k5pavLeWUkOezllwiLFwidXNlcm5hbWVcIjpcIumrmOeOsjEyXCJ9IiwiZXhwIjoxNjUxODA0NDg5LCJpYXQiOjE2NTE4MDI2ODksImp0aSI6ImxnYmU5ZTExOWIwYmQ0NDFmZDg4NjUxMzIyZGNlMjMxIn0.IhZYW_lO_ak7tknWQ_Pb8U-xn8q1TR2-JotzJRR17bk41mD7BgjN1UhNSWCBNzh8XAxTh9suuntvuYddugvCtg" />
+                  </map>
+                </value>
+              </entry>
               <entry key="remote">
                 <value>
                   <map>
@@ -146,13 +154,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.zjq.elasticsearch.controller.ElasticsearchController" />
+        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
         <option name="method" value="contentList" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="elasticsearch" />
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="module" value="oa-admin" />
+        <option name="originUrl" value="elastic/contentList" />
+        <option name="url" value="/elastic/contentList" />
       </ParamGroup>
     </option>
     <option name="projectList">
