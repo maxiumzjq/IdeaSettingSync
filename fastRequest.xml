@@ -21,6 +21,25 @@
           </option>
           <option name="name" value="oa" />
         </NameGroup>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="dev" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="remote" />
+                <option name="url" value="" />
+              </HostGroup>
+              <HostGroup>
+                <option name="env" value="localhost" />
+                <option name="url" value="http://localhost:8089" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="lo" />
+        </NameGroup>
       </list>
     </option>
     <option name="defaultDataMappingList">
@@ -95,9 +114,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:7481" />
+    <option name="domain" value="http://localhost:8089" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="oa" />
+    <option name="enableProject" value="lo" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -154,18 +173,19 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
-        <option name="method" value="contentList" />
+        <option name="className" value="com.zjq.elasticsearch.controller.ElasticsearchController" />
+        <option name="method" value="contentList2" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="oa-admin" />
-        <option name="originUrl" value="elastic/contentList" />
-        <option name="url" value="/elastic/contentList" />
+        <option name="module" value="elasticsearch" />
+        <option name="originUrl" value="/elastic/contentList1" />
+        <option name="url" value="/elastic/contentList1" />
       </ParamGroup>
     </option>
     <option name="projectList">
       <list>
         <option value="oa" />
+        <option value="lo" />
       </list>
     </option>
     <option name="randomStringLength" value="5" />
