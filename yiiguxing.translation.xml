@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="search Word" />
+      <item value="key Word" />
+      <item value="search Attach" />
       <item value="text" />
       <item value="combine Result Map" />
       <item value="Specifying types in search requests is deprecated" />
@@ -48,14 +51,11 @@
       <item value="Immutable Value object encapsulating index name(s) and index type(s). Type names are supported but deprecated as Elasticsearch does not support types anymore." />
       <item value="current Has Read" />
       <item value="ad)" />
-      <item value="Previous Or Next User Mail Id DTO" />
-      <item value="Previous Or Next User" />
-      <item value="Previous Or Next User Mail Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
