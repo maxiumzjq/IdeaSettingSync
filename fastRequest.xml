@@ -174,9 +174,9 @@
     <option name="paramGroup">
       <ParamGroup>
         <option name="className" value="com.zjq.elasticsearch.controller.ElasticsearchController" />
-        <option name="method" value="insertHistory" />
+        <option name="method" value="listHistory" />
         <option name="methodDescription" value="" />
-        <option name="methodType" value="POST" />
+        <option name="methodType" value="GET" />
         <option name="module" value="elasticsearch" />
         <option name="originUrl" value="/elastic/history" />
         <option name="url" value="/elastic/history" />
