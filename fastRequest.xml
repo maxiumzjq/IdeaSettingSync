@@ -114,9 +114,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:7481" />
+    <option name="domain" value="http://localhost:8089" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="oa" />
+    <option name="enableProject" value="lo" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -173,37 +173,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
-        <option name="method" value="searchAttach" />
-        <option name="methodDescription" value="查询附件" />
+        <option name="className" value="com.zjq.elasticsearch.controller.ElasticsearchController" />
+        <option name="method" value="insertHistory" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="oa-admin" />
-        <option name="originUrl" value="elastic/attach" />
-        <option name="requestParamMap">
-          <map>
-            <entry key="from">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="searchType">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="searchWord">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="size">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="url" value="/elastic/attach" />
+        <option name="module" value="elasticsearch" />
+        <option name="originUrl" value="/elastic/history" />
+        <option name="url" value="/elastic/history" />
       </ParamGroup>
     </option>
     <option name="projectList">
