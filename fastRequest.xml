@@ -114,7 +114,7 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8077" />
+    <option name="domain" value="http://localhost:7481" />
     <option name="enableEnv" value="localhost" />
     <option name="enableProject" value="oa" />
     <option name="envList">
@@ -178,8 +178,8 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="elasticsearch" />
-        <option name="originUrl" value="/elastic/contentList1" />
-        <option name="url" value="/elastic/contentList1" />
+        <option name="originUrl" value="" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
