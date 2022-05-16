@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="history" />
       <item value="Result" />
       <item value="un Read All Total" />
@@ -50,12 +51,11 @@
       <item value="No ParameterResolver registered for parameter" />
       <item value="org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [org.springframework.data.elasticsearch.core.ElasticsearchOperations elasticsearchOperations] in constructor [com.zjq.elasticsearch.ElasticsearchApplicationTests(org.springframework.data.elasticsearch.core.ElasticsearchOperations,org.elasticsearch.client.RestHighLevelClient)]." />
       <item value="if nothing needs to be customized" />
-      <item value="options" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
