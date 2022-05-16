@@ -174,11 +174,20 @@
     <option name="paramGroup">
       <ParamGroup>
         <option name="className" value="com.ot.oa.admin.controller.mobile.OfficeMailController" />
-        <option name="method" value="listUserMail" />
-        <option name="methodDescription" value="查询用户邮件列表" />
+        <option name="method" value="getUserMail" />
+        <option name="methodDescription" value="查询用户邮件详情" />
         <option name="methodType" value="GET" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/mobile/officeMail/" />
+        <option name="originUrl" value="/mobile/officeMail/{userMailId}" />
+        <option name="pathParamMap">
+          <map>
+            <entry key="userMailId">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
         <option name="requestParamMap">
           <map>
             <entry key="hasRead">
@@ -203,7 +212,7 @@
             </entry>
           </map>
         </option>
-        <option name="url" value="/mobile/officeMail/" />
+        <option name="url" value="/mobile/officeMail/userMailId_8dkcl" />
       </ParamGroup>
     </option>
     <option name="projectList">
