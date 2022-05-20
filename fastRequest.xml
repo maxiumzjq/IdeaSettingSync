@@ -30,7 +30,7 @@
               </HostGroup>
               <HostGroup>
                 <option name="env" value="remote" />
-                <option name="url" value="http://localhost:8088" />
+                <option name="url" value="http://localhost:8080" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="localhost" />
@@ -114,9 +114,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:7481" />
-    <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="oa" />
+    <option name="domain" value="http://localhost:8080" />
+    <option name="enableEnv" value="remote" />
+    <option name="enableProject" value="lo" />
     <option name="envList">
       <list>
         <option value="dev" />
