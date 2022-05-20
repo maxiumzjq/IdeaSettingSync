@@ -173,12 +173,12 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.AnnualLeaveController" />
-        <option name="method" value="importData" />
-        <option name="methodDescription" value="" />
+        <option name="className" value="com.zjq.springboot_easyexcel.controller.ExcelController" />
+        <option name="method" value="upload" />
+        <option name="methodDescription" value="文件上传 &lt;p&gt;1. 创建excel对应的实体对象 参照 &lt;p&gt;2. 由于默认一行行的读取excel，所以需要创建excel一行一行的回调监听器，参照 &lt;p&gt;3. 直接读即可" />
         <option name="methodType" value="POST" />
-        <option name="module" value="oa-admin" />
-        <option name="originUrl" value="" />
+        <option name="module" value="springboot_easyexcel" />
+        <option name="originUrl" value="/upload" />
         <option name="requestParamMap">
           <map>
             <entry key="file">
@@ -188,7 +188,7 @@
             </entry>
           </map>
         </option>
-        <option name="url" value="" />
+        <option name="url" value="/upload" />
       </ParamGroup>
     </option>
     <option name="projectList">
