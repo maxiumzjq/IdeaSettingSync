@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzNjdjODBiMzNkNWY0ZGIwOWU2ZDU5ZGQ4NWM3MjZmMCIsImV4cCI6MTY1MjcyNDU4OSwiaWF0IjoxNjUyNjk1Nzg5LCJqdGkiOiJsZ2M0Yjk3NWY2NWU5ODQxODRhMzVlNGY3YzlhMDI3NSJ9.T7ki6VcTCIWclphCvqQhPMJwe8wOsigKLzImH4YpRlcyMjkqApilP2Q-M2TqxMZOuWB7L40Z4VSnITV4smnjCA" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI2YTRhZWVkYmQyN2M0OTlkOGY5NWY0OTY5YWJlZTYwOCIsImV4cCI6MTY1MzA1NDcxNCwiaWF0IjoxNjUzMDI1OTE0LCJqdGkiOiJsZ2E2NzNkOGZlMWU3ZDQ1YzE5Y2M4YzhhOWZjYmYyNSJ9.zj91Ga65ib_ljEjlxo2zfqnGN0TliATGrunT_TMTOesNR9sRQLy_byHUnXGfqgKEcOdVqEoH-TRZ7Kr3dF6rKA" />
                   </map>
                 </value>
               </entry>
@@ -173,22 +173,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
+        <option name="className" value="com.ot.oa.admin.controller.AnnualLeaveController" />
+        <option name="method" value="importData" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="oa-admin" />
+        <option name="originUrl" value="/annualLeave/import" />
+        <option name="requestParamMap">
           <map>
-            <entry key="requestParam">
+            <entry key="file">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.ot.oa.admin.controller.gzw.GzwController" />
-        <option name="method" value="newsTrendsList" />
-        <option name="methodDescription" value="获取国资动态内容信息分页数据" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/services/gzw/newsTrendsList" />
-        <option name="url" value="/services/gzw/newsTrendsList" />
+        <option name="url" value="/annualLeave/import" />
       </ParamGroup>
     </option>
     <option name="projectList">
