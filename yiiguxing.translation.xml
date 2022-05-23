@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="import Data" />
+      <item value="upload 1" />
       <item value="BATCH COUNT" />
       <item value="ATCH COUNT了" />
       <item value="Importable Entity com.ot.oa.dto.admin.ListAnnualLeaveDTO should implements interface Importable" />
@@ -49,13 +51,11 @@
       <item value="Validation Failed: 1: query is missing;" />
       <item value="Delete the one object with provided id." />
       <item value="with" />
-      <item value="ot" />
-      <item value="the document ot delete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
