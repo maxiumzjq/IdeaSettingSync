@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verify Data" />
+      <item value="校验" />
+      <item value="valiad Data" />
       <item value="get Cell Data" />
       <item value="new Array List With Expected Size" />
       <item value="instanceof" />
@@ -48,14 +51,11 @@
       <item value="query defining the update, must not be {@literal" />
       <item value="Request to update some documents. That means you can't change their type, id, index, or anything like that. This implements CompositeIndicesRequest but in a misleading way. Rather than returning all the subrequests that it will make it tries to return a representative set of subrequests. This is best-effort but better than {@linkplain ReindexRequest} because scripts can't change the destination index and things." />
       <item value="The language for this {@link Script} if the {@link ScriptType} is {@link ScriptTypeINLINE}. For {@link ScriptTypeSTORED} scripts this should be null, but can be specified to access scripts stored as part of the stored scripts deprecated API." />
-      <item value="lang" />
-      <item value="The entity class, must be annotated with" />
-      <item value="query defining the objects" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
