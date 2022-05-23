@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="save Batch By Annual Leave" />
+      <item value="save Batchby Annual Leave" />
+      <item value="save Batchbyannual" />
       <item value="annual Leave" />
       <item value="import Data" />
       <item value="upload 1" />
@@ -48,14 +51,11 @@
       <item value="query defining the objects @param clazz The entity class, must be annotated with {@link org.springframework.data.elasticsearch.annotations.Document} @return response with detailed information" />
       <item value="indices" />
       <item value="Delete By Query Request" />
-      <item value="Creates a new DeleteByQueryRequest that uses scrolling and bulk requests to delete all documents matching the query. This can have performance as well as visibility implications. Delete-by-query now has the following semantics: it's non-atomic, a delete-by-query may fail at any time while some documents matching the query have already been deleted it's syntactic sugar, a delete-by-query is equivalent to a scroll search and corresponding bulk-deletes by ID it's executed on a point-in-time snapshot, a delete-by-query will only delete the documents that are visible at the point in time the delete-by-query was started, equivalent to the scroll API it's consistent, a delete-by-query will yield consistent results across all replicas of a shard it's forward-compatible, a delete-by-query will only send IDs to the shards as deletes such that no queries are stored in the transaction logs that might not be supported in the future. it's results won't be visible until the index is refreshed." />
-      <item value="Validation Failed: 1: query is missing;" />
-      <item value="Delete the one object with provided id." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="85" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
