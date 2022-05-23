@@ -115,7 +115,7 @@
       </list>
     </option>
     <option name="domain" value="http://localhost:7481" />
-    <option name="enableEnv" value="dev" />
+    <option name="enableEnv" value="localhost" />
     <option name="enableProject" value="oa" />
     <option name="envList">
       <list>
@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI2YTRhZWVkYmQyN2M0OTlkOGY5NWY0OTY5YWJlZTYwOCIsImV4cCI6MTY1MzA1NDcxNCwiaWF0IjoxNjUzMDI1OTE0LCJqdGkiOiJsZ2E2NzNkOGZlMWU3ZDQ1YzE5Y2M4YzhhOWZjYmYyNSJ9.zj91Ga65ib_ljEjlxo2zfqnGN0TliATGrunT_TMTOesNR9sRQLy_byHUnXGfqgKEcOdVqEoH-TRZ7Kr3dF6rKA" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxZTA3N2U2NjQyODE0NDc0YjdiZjdiMTEwNGZkMDYxZSIsImV4cCI6MTY1MzMxNzEyNywiaWF0IjoxNjUzMjg4MzI3LCJqdGkiOiJsZ2IxNGU4Yjc1M2UwNzQ2NGE4NGJhMGNlOTJlMWM2NCJ9.nlyX4_titVzpIq2C6yBcVArJsWA5H90JekX5hXvLTR1xRdlhGDAAsA9K0aEXhyJ4Y4hqO0mA1y23O8wvis7znQ" />
                   </map>
                 </value>
               </entry>
@@ -173,12 +173,12 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.zjq.springboot_easyexcel.controller.ExcelController" />
-        <option name="method" value="upload1" />
+        <option name="className" value="com.ot.oa.admin.controller.AnnualLeaveController" />
+        <option name="method" value="importData" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="springboot_easyexcel" />
-        <option name="originUrl" value="" />
+        <option name="module" value="oa-admin" />
+        <option name="originUrl" value="/annualLeave/import" />
         <option name="requestParamMap">
           <map>
             <entry key="file">
@@ -188,7 +188,7 @@
             </entry>
           </map>
         </option>
-        <option name="url" value="" />
+        <option name="url" value="/annualLeave/import" />
       </ParamGroup>
     </option>
     <option name="projectList">
