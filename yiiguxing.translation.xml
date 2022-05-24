@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="download Template" />
       <item value="&quot;static&quot; base class members should not be accessed via derived types" />
       <item value="Field 'updateCacheDataList' may be 'final'" />
       <item value="update Cache Data List" />
@@ -50,18 +51,17 @@
       <item value="require Field Match" />
       <item value="ith Pageable(" />
       <item value="with Highlight Builder" />
-      <item value="with Highlight Fields" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652944522989" />
+    <option name="lastTrimTime" value="1653380628052" />
   </component>
 </application>
