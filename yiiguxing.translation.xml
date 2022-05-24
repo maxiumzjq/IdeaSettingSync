@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&quot;static&quot; base class members should not be accessed via derived types" />
       <item value="Field 'updateCacheDataList' may be 'final'" />
       <item value="update Cache Data List" />
       <item value="cached Data List" />
@@ -50,11 +51,10 @@
       <item value="ith Pageable(" />
       <item value="with Highlight Builder" />
       <item value="with Highlight Fields" />
-      <item value="No property summary found for type NormalIndexData!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
+        <entry key="CHINESE" value="105" />
         <entry key="ENGLISH" value="104" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
