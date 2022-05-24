@@ -174,21 +174,21 @@
     <option name="paramGroup">
       <ParamGroup>
         <option name="className" value="com.ot.oa.admin.controller.AnnualLeaveController" />
-        <option name="method" value="importData" />
+        <option name="method" value="export" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="" />
+        <option name="originUrl" value="/annualLeave/export" />
         <option name="requestParamMap">
           <map>
-            <entry key="file">
+            <entry key="annualLeaveId">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="url" value="" />
+        <option name="url" value="/annualLeave/export" />
       </ParamGroup>
     </option>
     <option name="projectList">
