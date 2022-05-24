@@ -173,22 +173,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.AnnualLeaveController" />
-        <option name="method" value="export" />
-        <option name="methodDescription" value="" />
+        <option name="className" value="com.ot.oa.admin.controller.MailController" />
+        <option name="method" value="exportMailZip" />
+        <option name="methodDescription" value="导出多个邮件" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/annualLeave/export" />
-        <option name="requestParamMap">
+        <option name="originUrl" value="/mail/exportMailZip/{mailId}" />
+        <option name="pathParamMap">
           <map>
-            <entry key="annualLeaveId">
+            <entry key="mailId">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="url" value="/annualLeave/export" />
+        <option name="url" value="/mail/exportMailZip/mailId_ep0so" />
       </ParamGroup>
     </option>
     <option name="projectList">
