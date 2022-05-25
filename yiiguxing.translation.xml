@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Left Leave" />
       <item value="download Template" />
       <item value="&quot;static&quot; base class members should not be accessed via derived types" />
       <item value="Field 'updateCacheDataList' may be 'final'" />
@@ -50,12 +51,11 @@
       <item value="Specifying types in search requests is deprecated" />
       <item value="require Field Match" />
       <item value="ith Pageable(" />
-      <item value="with Highlight Builder" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
