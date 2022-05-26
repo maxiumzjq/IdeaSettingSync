@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="get Current Node And Processor" />
       <item value="set Left Leave" />
+      <item value="set Taken Leave" />
+      <item value="计算" />
+      <item value="get Current Node And Processor" />
       <item value="download Template" />
       <item value="&quot;static&quot; base class members should not be accessed via derived types" />
       <item value="Field 'updateCacheDataList' may be 'final'" />
@@ -49,13 +51,11 @@
       <item value="search Attach" />
       <item value="text" />
       <item value="combine Result Map" />
-      <item value="Specifying types in search requests is deprecated" />
-      <item value="require Field Match" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
