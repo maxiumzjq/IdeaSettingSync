@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="tenant Id" />
       <item value="sender Bean Name" />
       <item value="sender Class" />
       <item value="set Tenant Id" />
@@ -54,12 +55,11 @@
       <item value="save Batch By Annual Leave" />
       <item value="save Batchby Annual Leave" />
       <item value="save Batchbyannual" />
-      <item value="annual Leave" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
