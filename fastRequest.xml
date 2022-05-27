@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1MzU3ODk1OCwiaWF0IjoxNjUzNTUwMTU4LCJqdGkiOiJsZ2Q3YzdlMTU1MWU3YTRhNTViNjc5MTE1OTE2OTRiOSJ9.5d9N-BQa5d1znyOovh2kWsNZsD2r2xbg74uJkVP0ROKvOsnXb3LALRywtDn_iq6b-pbWIcRXhA_jKuovqFGfHQ" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1MzY2MTI2NSwiaWF0IjoxNjUzNjMyNDY1LCJqdGkiOiJsZ2M0YmY2MjcyYzkwODQyNzZiNDgzNmVmMDhjNWI4MCJ9.oSU6ld0uOAlA7SCMPvC667L0ggWS4nWSC45rcLxKSQFzuj2MwsDLhZLpe71sxmhEq3mCbEPrphSZC1Jki2Eozg" />
                   </map>
                 </value>
               </entry>
@@ -173,13 +173,27 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.AnnualLeaveController" />
-        <option name="method" value="annualTest" />
-        <option name="methodDescription" value="" />
+        <option name="className" value="com.ot.oa.admin.controller.mobile.OfficeMailController" />
+        <option name="method" value="moveSingleMail" />
+        <option name="methodDescription" value="移动单个用户邮件" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/annualLeave/annualTest" />
-        <option name="url" value="/annualLeave/annualTest" />
+        <option name="originUrl" value="/mobile/officeMail/moveSingleMail" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="mailBoxId">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="userMailId">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="url" value="/mobile/officeMail/moveSingleMail" />
       </ParamGroup>
     </option>
     <option name="projectList">
