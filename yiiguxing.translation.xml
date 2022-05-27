@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="target Id" />
+      <item value="目标" />
+      <item value="result Id" />
+      <item value="move Single Mail" />
+      <item value="单个" />
+      <item value="Signal Mail(" />
+      <item value="l Mail(" />
+      <item value="update Drafts" />
       <item value="expect Days" />
       <item value="remainder Day" />
       <item value="eft Leave(" />
@@ -47,19 +55,11 @@
       <item value="import Data" />
       <item value="upload 1" />
       <item value="BATCH COUNT" />
-      <item value="ATCH COUNT了" />
-      <item value="Importable Entity com.ot.oa.dto.admin.ListAnnualLeaveDTO should implements interface Importable" />
-      <item value="string Date Pattern" />
-      <item value="notification Notice" />
-      <item value="Allocates a Date object and initializes it so that it represents the time at which it was allocated, measured to the nearest millisecond. See Also: System.currentTimeMillis()" />
-      <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
-      <item value="history" />
-      <item value="Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
