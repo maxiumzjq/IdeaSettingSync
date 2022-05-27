@@ -5,6 +5,17 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="replace Brace Key" />
+      <item value="set Receiver" />
+      <item value="set Sender" />
+      <item value="sms Template" />
+      <item value="Send Sms" />
+      <item value="Sms" />
+      <item value="SMS" />
+      <item value="Send SMS" />
+      <item value="短信" />
+      <item value="send Message" />
+      <item value="urge Message" />
       <item value="Invocation Target Exception" />
       <item value="convert 2 string" />
       <item value="r" />
@@ -44,22 +55,11 @@
       <item value="Read Workbook Holder" />
       <item value="read Workbook Holder" />
       <item value="current Sheet" />
-      <item value="read Sheet List" />
-      <item value="get Custom" />
-      <item value="current Read Holder" />
-      <item value="read Row Holder" />
-      <item value="verify Data" />
-      <item value="校验" />
-      <item value="valiad Data" />
-      <item value="get Cell Data" />
-      <item value="new Array List With Expected Size" />
-      <item value="instanceof" />
-      <item value="Variable 'cachedDataList' is accessed from within inner class, needs to be final or effectively final" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="144" />
+        <entry key="ENGLISH" value="145" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
