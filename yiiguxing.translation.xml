@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Invocation Target Exception" />
+      <item value="convert 2 string" />
+      <item value="r" />
       <item value="tenant Id" />
       <item value="sender Bean Name" />
       <item value="sender Class" />
@@ -52,14 +55,11 @@
       <item value="new Array List With Expected Size" />
       <item value="instanceof" />
       <item value="Variable 'cachedDataList' is accessed from within inner class, needs to be final or effectively final" />
-      <item value="save Batch By Annual Leave" />
-      <item value="save Batchby Annual Leave" />
-      <item value="save Batchbyannual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
