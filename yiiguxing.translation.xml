@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="schedule With Fixed Delay" />
       <item value="Calendar" />
       <item value="personal" />
       <item value="personal Calendar" />
@@ -54,12 +55,11 @@
       <item value="计算" />
       <item value="get Current Node And Processor" />
       <item value="download Template" />
-      <item value="&quot;static&quot; base class members should not be accessed via derived types" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
