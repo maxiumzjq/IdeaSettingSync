@@ -173,13 +173,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.AnnualLeaveController" />
-        <option name="method" value="annualTest" />
-        <option name="methodDescription" value="" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="holidayFlowDTO">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.ot.oa.admin.controller.mobile.HolidayFlowController" />
+        <option name="method" value="insertHolidayFlow" />
+        <option name="methodDescription" value="新增假期" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/annualLeave/annualTest" />
-        <option name="url" value="/annualLeave/annualTest" />
+        <option name="originUrl" value="/mobile/holidayFlow/add" />
+        <option name="url" value="/mobile/holidayFlow/add" />
       </ParamGroup>
     </option>
     <option name="projectList">
