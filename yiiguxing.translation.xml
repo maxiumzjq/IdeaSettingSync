@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="insert Public Company Level Type" />
       <item value="schedule With Fixed Delay" />
       <item value="Calendar" />
       <item value="personal" />
@@ -54,12 +55,11 @@
       <item value="set Taken Leave" />
       <item value="计算" />
       <item value="get Current Node And Processor" />
-      <item value="download Template" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
