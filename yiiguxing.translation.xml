@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="tenant Id" />
       <item value="handle Remind" />
       <item value="calendar Msg Template" />
       <item value="calendar Template" />
@@ -33,7 +34,6 @@
       <item value="Invocation Target Exception" />
       <item value="convert 2 string" />
       <item value="r" />
-      <item value="tenant Id" />
       <item value="sender Bean Name" />
       <item value="sender Class" />
       <item value="set Tenant Id" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="156" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="CHINESE" value="157" />
+        <entry key="ENGLISH" value="158" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
