@@ -5,9 +5,9 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="get Org Unit Ids By User Id" />
-      <item value="put Organizations" />
       <item value="get User Belonged Org Units" />
+      <item value="put Organizations" />
+      <item value="get Org Unit Ids By User Id" />
       <item value="get Org Unit By Id" />
       <item value="get Current Node And Processor" />
       <item value="ode And Processor(" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
