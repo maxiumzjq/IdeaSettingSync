@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Current Activitys" />
+      <item value="get Current Node And Processor" />
       <item value="Deducted Annual Leave" />
       <item value="alLeave }" />
       <item value="tenant Id" />
@@ -53,13 +55,11 @@
       <item value="leave" />
       <item value="get Left Leave" />
       <item value="Day =" />
-      <item value="remainder" />
-      <item value="剩余" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
