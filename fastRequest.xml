@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NDAxOTk2MywiaWF0IjoxNjUzOTkxMTYzLCJqdGkiOiJsZ2Q3ODc4MGU5YTQ2ZjRiMjA4ZWFhOTM4NTg1NDY0NyJ9.oqQNwlpm6Dhqk_0CsN2YXUhs28Vi-ecfZqAY17-ymjmdre2rrv8vel4fOcINwqMC5Wq0JYqhtRRfR8GvLCP0lg" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NDA5Mjk0OCwiaWF0IjoxNjU0MDY0MTQ4LCJqdGkiOiJsZzBjZWFlNjViYzBlYzQyZDU5YjMwYTkzMDU3ZDUxMSJ9.HDmeK2nRGErOSF3-Lbf-KD7gqDSR5YIGNnTJw7qflKN5smetfd3L6oQ25tcBtW_ksXl44ZY6t9l5vVcFbqj_9g" />
                   </map>
                 </value>
               </entry>
@@ -173,22 +173,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
-          <map>
-            <entry key="annualLeaveDTO">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="className" value="com.ot.oa.admin.controller.FullOfficeHolidayFlowController" />
-        <option name="method" value="updateAnnualLeave" />
-        <option name="methodDescription" value="编辑年假管理信息" />
-        <option name="methodType" value="PUT" />
+        <option name="className" value="com.ot.oa.admin.controller.AnnualLeaveController" />
+        <option name="method" value="annualTest" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/FullOfficeHolidayFlow/annualLeave" />
-        <option name="url" value="/FullOfficeHolidayFlow/annualLeave" />
+        <option name="originUrl" value="/annualLeave/annualTest" />
+        <option name="url" value="/annualLeave/annualTest" />
       </ParamGroup>
     </option>
     <option name="projectList">
