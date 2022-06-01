@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="lib" />
+    <option name="defaultScopeName" value="lib" />
+    <option name="SEARCH_SCOPE" value="lib" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
