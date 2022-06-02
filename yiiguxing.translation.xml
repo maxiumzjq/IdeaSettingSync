@@ -5,11 +5,15 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Current Node And Processor" />
+      <item value="has View All Process" />
+      <item value="Cur Node(" />
+      <item value="s Instance Id(" />
+      <item value="ess Instance Id(" />
       <item value="get Handle Status" />
       <item value="Status(" />
       <item value="DISPATCH SELECT" />
       <item value="SENDFILE SEARCH" />
-      <item value="has View All Process" />
       <item value="set Cur Processor" />
       <item value="set Cur Node" />
       <item value="e Flow Dto." />
@@ -18,7 +22,6 @@
       <item value="put Organizations" />
       <item value="get Org Unit Ids By User Id" />
       <item value="get Org Unit By Id" />
-      <item value="get Current Node And Processor" />
       <item value="ode And Processor(" />
       <item value="get Current Activitys" />
       <item value="Deducted Annual Leave" />
@@ -52,14 +55,11 @@
       <item value="Invocation Target Exception" />
       <item value="convert 2 string" />
       <item value="r" />
-      <item value="sender Bean Name" />
-      <item value="sender Class" />
-      <item value="set Tenant Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
