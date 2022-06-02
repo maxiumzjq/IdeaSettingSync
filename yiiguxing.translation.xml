@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ge)" />
       <item value="get User Belonged Org Units" />
       <item value="put Organizations" />
       <item value="get Org Unit Ids By User Id" />
@@ -54,11 +55,10 @@
       <item value="Signal Mail(" />
       <item value="l Mail(" />
       <item value="update Drafts" />
-      <item value="expect Days" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
+        <entry key="CHINESE" value="173" />
         <entry key="ENGLISH" value="172" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
