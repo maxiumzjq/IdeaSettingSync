@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Serializable" />
+      <item value="able {" />
       <item value="get Org Unit By Id" />
       <item value="get Org Unit Ids By User Id" />
       <item value="it By Id(" />
@@ -53,13 +55,11 @@
       <item value="Send SMS" />
       <item value="短信" />
       <item value="send Message" />
-      <item value="urge Message" />
-      <item value="Invocation Target Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
