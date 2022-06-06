@@ -5,7 +5,9 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Org Unit By Id" />
       <item value="get Org Unit Ids By User Id" />
+      <item value="it By Id(" />
       <item value="push Work Data" />
       <item value="get Current Node And Processor" />
       <item value="has View All Process" />
@@ -22,7 +24,6 @@
       <item value="ge)" />
       <item value="get User Belonged Org Units" />
       <item value="put Organizations" />
-      <item value="get Org Unit By Id" />
       <item value="ode And Processor(" />
       <item value="get Current Activitys" />
       <item value="Deducted Annual Leave" />
@@ -54,12 +55,11 @@
       <item value="send Message" />
       <item value="urge Message" />
       <item value="Invocation Target Exception" />
-      <item value="convert 2 string" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="191" />
+        <entry key="ENGLISH" value="192" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
