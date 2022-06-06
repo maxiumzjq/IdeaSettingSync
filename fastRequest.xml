@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NDE3ODk3MCwiaWF0IjoxNjU0MTUwMTcwLCJqdGkiOiJsZ2YwNGM2YjRkM2Q5YTRkNGJiNjBhYThmYWNiMWRiOSJ9.xRnvhLN4COHhX5zMoeEWoUoL0-fIv_CkQfIAbXZsZ4nW2dzJenA9Bbyr52fnJR35yQMJUJt9cWrFeNtZzbVekw" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NDUyNTIxNywiaWF0IjoxNjU0NDk2NDE3LCJqdGkiOiJsZ2ViMDViN2Q5ZTgzODQyYzBiMzFjODZiMWVjMzQ0YyJ9.RFYrLcW-wjLa0zqHr4_OdnDkhSfZaZqyMfpF8WStx5-abOxudvRe983kcHnk6leO1MFKCrt2amuhYE7YxckkOQ" />
                   </map>
                 </value>
               </entry>
@@ -173,22 +173,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.gzw.WorkDataController" />
-        <option name="method" value="meetingListPage" />
-        <option name="methodDescription" value="会议查询列表" />
+        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
+        <option name="method" value="searchAttach1" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="" />
-        <option name="requestParamMap">
-          <map>
-            <entry key="search">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="url" value="" />
+        <option name="originUrl" value="elastic/attach1" />
+        <option name="url" value="/elastic/attach1" />
       </ParamGroup>
     </option>
     <option name="projectList">
