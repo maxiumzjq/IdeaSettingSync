@@ -161,7 +161,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ7XCJhY2NvdW50XCI6XCJsaW54aWFvcWluZ1wiLFwiYmFzZVwiOntcImFjY291bnRcIjpcImxpbnhpYW9xaW5nXCIsXCJtb2JpbGVcIjpcIjEzMTY4OTU5NTYzXCIsXCJ1c2VybmFtZVwiOlwi5p6X5pmT5bqGXCJ9LFwiY29tcGFueUlkc1wiOltcIjViYjU1N2YxMDgzODQ3MWY4OWRhNWY1NDY3MzllMmMzXCJdLFwiY29tcGFueU5hbWVzXCI6W1wi5Zu96LWE5aeUXCJdLFwiY3JlYXRlVGltZVwiOjE2MzQ3MTA2MDUwMDAsXCJjdXJyZW50RGVwYXJ0bWVudElkc1wiOltcImU3Mjg1ZmMzNWUzMzQ3MTg4ODQ4NjE0YzkzYzAzOTI0XCJdLFwiY3VycmVudERlcGFydG1lbnROYW1lc1wiOltcIuinhOWIkuWPkeWxleWkhFwiXSxcImN1cnJlbnREZXBhcnRtZW50U2hvcnROYW1lc1wiOltcIuinhOWIkuWPkeWxleWkhFwiXSxcImN1cnJlbnRPcmdEZ2RjTnVtYmVyXCI6XCJOOTk5OTU3XCIsXCJjdXJyZW50T3JnSWRcIjpcIjViYjU1N2YxMDgzODQ3MWY4OWRhNWY1NDY3MzllMmMzXCIsXCJjdXJyZW50T3JnTmFtZVwiOlwi5Zu96LWE5aeUXCIsXCJkZWZhdWx0T3JnSWRcIjpcIjViYjU1N2YxMDgzODQ3MWY4OWRhNWY1NDY3MzllMmMzXCIsXCJkZWZhdWx0T3JnTmFtZVwiOlwi5Zu96LWE5aeUXCIsXCJkZWxldGVkXCI6MCxcImRlcGFydG1lbnRJZHNcIjpbXCJlNzI4NWZjMzVlMzM0NzE4ODg0ODYxNGM5M2MwMzkyNFwiXSxcImRlcGFydG1lbnROYW1lc1wiOltcIuWbvei1hOWnlC3op4TliJLlj5HlsZXlpIRcIl0sXCJkZ2NnTnVtYmVyXCI6XCJOMTAwMzQ5MDNcIixcImVtYWlsXCI6XCJcIixcImpvYm51bWJlclwiOlwiXCIsXCJsYXN0TW9kaWZ5VGltZVwiOjE2NDg1MjI1NDQwMDAsXCJsb2dpbmVycm9yY291bnRcIjowLFwibWVtb1wiOlwiXCIsXCJtb2JpbGVcIjpcIjEzMTY4OTU5NTYzXCIsXCJwb3NpdGlvblwiOlwiXCIsXCJwd2RcIjpcIlwiLFwic2V4XCI6MSxcInRlbGVwaG9uZVwiOlwiXCIsXCJ0ZW5hbnRJZFwiOlwiNjU1MTg4MWQxOGUyZjNkNTQ2NjU0ZjhhNDQ5N2MyZDdcIixcInVzZXJJZFwiOlwiMDk3NTVmMGMzNDZkNDIwNjk1NjcyNmRmNmJjMGYwN2FcIixcInVzZXJPcmdJZHNcIjpcImU3Mjg1ZmMzNWUzMzQ3MTg4ODQ4NjE0YzkzYzAzOTI0XCIsXCJ1c2VyT3JnTmFtZXNcIjpcIuWbvei1hOWnlC3op4TliJLlj5HlsZXlpIRcIixcInVzZXJSb2xlSWRzXCI6XCIyZDM2NThiZGU0N2Y3YmZlOGRiNTQ1YTQ5Y2NhNGY1ZTs1NDY2NzhhYWJhYzdiMjRhYjI3NWNhZGI5YWYzZDhhY1wiLFwidXNlclJvbGVOYW1lc1wiOlwi5Zu96LWE5aeULeWFrOWPuOWFqOS9k-eUqOaItzvlm73otYTlp5Qt5aSE6ZW_L-WJr-WkhOmVv1wiLFwidXNlcm5hbWVcIjpcIuael-aZk-W6hlwifSIsImV4cCI6MTY0OTczNTM3OSwiaWF0IjoxNjQ5NzMzNTc5LCJqdGkiOiJsZzA5ZGU4MTQ4NDYyNjRhNzg4NjkyNDFlYTI5MDFkMSJ9.cBdsmGBy-GIfKbxa7wDvcQHjjM7s0YNrxCRFKQxPlvZqRcSmYA1QcGlhoEukan8aVV2NBTLvHo-eG7WrVmjT3Q" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NDYyNjgzOCwiaWF0IjoxNjU0NTk4MDM4LCJqdGkiOiJsZzQ3YWEyZjJiNDdkODRkOWRhMjliNmFkNDc3MmFmMiJ9.GljQUAmUaHvGfnIpZYQbl6NmKbKCUcP4nuiMe3exWeStrR7nqKHiL5fr2uJ66kSta5l6riLQmxGW8MFBxqrb6w" />
                   </map>
                 </value>
               </entry>
@@ -174,12 +174,36 @@
     <option name="paramGroup">
       <ParamGroup>
         <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
-        <option name="method" value="searchAttach1" />
-        <option name="methodDescription" value="" />
+        <option name="method" value="searchAttach" />
+        <option name="methodDescription" value="查询附件" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="elastic/attach1" />
-        <option name="url" value="/elastic/attach1" />
+        <option name="originUrl" value="elastic/attach" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="from">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="searchType">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="searchWord">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="size">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="url" value="/elastic/attach" />
       </ParamGroup>
     </option>
     <option name="projectList">
