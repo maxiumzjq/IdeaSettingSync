@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="push Office Inner" />
+      <item value="push Inner" />
+      <item value="Full Office Inner" />
+      <item value="push Full Office Inner" />
       <item value="push Meeting" />
       <item value="push Meeting Room Meeting" />
       <item value="push Meeting Room Meeting Notice Flow" />
@@ -51,15 +55,11 @@
       <item value="meeting Message" />
       <item value="g Message:" />
       <item value="meet Message" />
-      <item value="会议" />
-      <item value="replace Brace Key" />
-      <item value="set Receiver" />
-      <item value="set Sender" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="204" />
+        <entry key="ENGLISH" value="205" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
