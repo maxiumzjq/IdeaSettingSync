@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Process Instance Id Bybu Code And Bu Data Id" />
+      <item value="ce Id Bybu Code And Bu Data Id(" />
+      <item value="wf inst process" />
+      <item value="get Process Instance" />
+      <item value="s Instance(" />
+      <item value="ance(" />
+      <item value="get Task Comments" />
       <item value="Receive" />
       <item value="push Public Doc Receive" />
       <item value="Current token (VALUE_FALSE) not numeric, can not use numeric value accessors" />
@@ -14,7 +21,6 @@
       <item value="process Instance Id" />
       <item value="d Top Comments(" />
       <item value="find Flow Comments" />
-      <item value="get Task Comments" />
       <item value="sk Comments(" />
       <item value="push Public Doc Dispatch" />
       <item value="push Public Doc Data" />
@@ -49,17 +55,11 @@
       <item value="set Cur Node" />
       <item value="e Flow Dto." />
       <item value="ge)" />
-      <item value="get User Belonged Org Units" />
-      <item value="put Organizations" />
-      <item value="ode And Processor(" />
-      <item value="get Current Activitys" />
-      <item value="Deducted Annual Leave" />
-      <item value="alLeave }" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
