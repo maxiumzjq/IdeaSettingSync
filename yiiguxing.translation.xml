@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Org Unit List By User Id" />
+      <item value="get Org Type" />
+      <item value="get Org Unit Ids By User Id" />
+      <item value="nit Ids By User Id(" />
       <item value="Timer Task Runner" />
       <item value="askRunner {" />
       <item value="Timer Twask Runner" />
@@ -47,19 +51,15 @@
       <item value="Serializable" />
       <item value="able {" />
       <item value="get Org Unit By Id" />
-      <item value="get Org Unit Ids By User Id" />
       <item value="it By Id(" />
       <item value="push Work Data" />
       <item value="get Current Node And Processor" />
       <item value="has View All Process" />
-      <item value="Cur Node(" />
-      <item value="s Instance Id(" />
-      <item value="ess Instance Id(" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="242" />
         <entry key="FILIPINO" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="NORWEGIAN" value="1" />
