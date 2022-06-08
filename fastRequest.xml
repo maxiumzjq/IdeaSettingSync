@@ -114,7 +114,7 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8080" />
+    <option name="domain" value="http://localhost:7481" />
     <option name="enableEnv" value="localhost" />
     <option name="enableProject" value="lo" />
     <option name="envList">
@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NDY4MDI3NCwiaWF0IjoxNjU0NjUxNDc0LCJqdGkiOiJsZ2I4Y2MzMDkxZGE3MDRmMDg5NmY0NjcwNTg3NTBmMCJ9.Yd3gcSXrWUIh0RKUw1vShB5iiTe2U5lLAViI8a1pKeHjwLgJoOPXIMhcnaSGt4hPr8MRjIOV6oTI4N6FLbJCvw" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NDY5NTYzOSwiaWF0IjoxNjU0NjY2ODM5LCJqdGkiOiJsZ2Y3NzE0NjY3YWIzNTRjYjY5MmJhZWE0MjQzYzEwOSJ9.2oPub1Qja7H5C9oGI3qR1tc_LHGwxSNy4fnxpFWsFJbeqKk0En_dRUsWmuay-4Yx4u-e4u6p-af-KQZzux-EIg" />
                   </map>
                 </value>
               </entry>
@@ -173,13 +173,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.zero.oa.controllers.DynamicJobController" />
-        <option name="method" value="executeTask" />
+        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
+        <option name="method" value="searchAttach1" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="oa_admin" />
-        <option name="originUrl" value="/dynamic/job/" />
-        <option name="url" value="/dynamic/job/" />
+        <option name="module" value="oa-admin" />
+        <option name="originUrl" value="elastic/attach1" />
+        <option name="url" value="/elastic/attach1" />
       </ParamGroup>
     </option>
     <option name="projectList">
