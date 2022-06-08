@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Timer Task Runner" />
+      <item value="askRunner {" />
+      <item value="Timer Twask Runner" />
+      <item value="Dynamic Timed Task" />
+      <item value="Scheduled Future" />
       <item value="set Job Name" />
       <item value="ny" />
       <item value="push Seal Flow" />
@@ -50,18 +55,14 @@
       <item value="Cur Node(" />
       <item value="s Instance Id(" />
       <item value="ess Instance Id(" />
-      <item value="get Handle Status" />
-      <item value="Status(" />
-      <item value="DISPATCH SELECT" />
-      <item value="SENDFILE SEARCH" />
-      <item value="set Cur Processor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="FILIPINO" value="1" />
         <entry key="MALAGASY" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
