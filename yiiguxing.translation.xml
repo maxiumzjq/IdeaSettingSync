@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="push Public Doc Receive" />
+      <item value="Current token (VALUE_FALSE) not numeric, can not use numeric value accessors" />
+      <item value="failed to parse field [sensitiveFlag] of type [long] in document with id 'e8e2de73d6c3491ea6dcecf8ca507801'. Preview of field's value: 'false'&quot;" />
+      <item value="Current token (VALUE_FALSE) not numeric, can not use numeric value accessors\n at [Source" />
+      <item value="failed to parse field [sensitiveFlag] of type [long] in document with id 'e8e2de73d6c3491ea6dcecf8ca507801'. Preview of field's value: 'false'&quot;," />
       <item value="process Instance Id" />
       <item value="d Top Comments(" />
       <item value="find Flow Comments" />
@@ -50,16 +55,11 @@
       <item value="Deducted Annual Leave" />
       <item value="alLeave }" />
       <item value="tenant Id" />
-      <item value="handle Remind" />
-      <item value="calendar Msg Template" />
-      <item value="calendar Template" />
-      <item value="insert Public Company Level Type" />
-      <item value="schedule With Fixed Delay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="FILIPINO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
