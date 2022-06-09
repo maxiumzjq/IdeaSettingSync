@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="EXAMINATION QUERY" />
+      <item value="VACATION QUERY" />
       <item value="5bb557f10838471f89da5f546739e2c3(String), 72e7ed5d4a2a4d70992548e188b70d2d(String)" />
       <item value="PUBLICDOCSIGN" />
       <item value="OCSIGN." />
@@ -53,13 +55,11 @@
       <item value="sk Comments(" />
       <item value="push Public Doc Dispatch" />
       <item value="push Public Doc Data" />
-      <item value="push Doc Dispatch" />
-      <item value="push Office Inner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="257" />
-        <entry key="ENGLISH" value="258" />
+        <entry key="CHINESE" value="259" />
+        <entry key="ENGLISH" value="260" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="MALAGASY" value="1" />
