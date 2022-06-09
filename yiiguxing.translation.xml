@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="5bb557f10838471f89da5f546739e2c3(String), 72e7ed5d4a2a4d70992548e188b70d2d(String)" />
       <item value="PUBLICDOCSIGN" />
       <item value="OCSIGN." />
       <item value="et List(" />
@@ -54,7 +55,6 @@
       <item value="push Public Doc Data" />
       <item value="push Doc Dispatch" />
       <item value="push Office Inner" />
-      <item value="push Inner" />
     </histories>
     <option name="languageScores">
       <map>
