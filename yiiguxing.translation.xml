@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ASSIGN UUID" />
+      <item value="Process finished with exit code 0" />
       <item value="User Orgunits" />
       <item value="rOrgunits =" />
       <item value="get Org Unit List By User Id" />
@@ -53,13 +55,11 @@
       <item value="Serializable" />
       <item value="able {" />
       <item value="get Org Unit By Id" />
-      <item value="it By Id(" />
-      <item value="push Work Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="242" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="FILIPINO" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="NORWEGIAN" value="1" />
