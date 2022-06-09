@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="et List(" />
       <item value="t Current User(" />
       <item value="User Helper" />
       <item value="le Operator By User Id And Jump(" />
@@ -54,12 +55,12 @@
       <item value="push Inner" />
       <item value="Full Office Inner" />
       <item value="push Full Office Inner" />
-      <item value="push Meeting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
+        <entry key="CHINESE" value="255" />
         <entry key="ENGLISH" value="255" />
+        <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="NORWEGIAN" value="2" />
