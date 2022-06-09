@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="PUBLICDOCSIGN" />
+      <item value="OCSIGN." />
       <item value="et List(" />
       <item value="t Current User(" />
       <item value="User Helper" />
@@ -53,13 +55,11 @@
       <item value="push Doc Dispatch" />
       <item value="push Office Inner" />
       <item value="push Inner" />
-      <item value="Full Office Inner" />
-      <item value="push Full Office Inner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="258" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="MALAGASY" value="1" />
