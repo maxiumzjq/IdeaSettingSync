@@ -6,6 +6,7 @@
     <option name="pinTranslationDialog" value="true" />
     <histories>
       <item value="Dynamic Timed Task" />
+      <item value="edTask {" />
       <item value="cTimedTask {" />
       <item value="start Cron" />
       <item value="ASSIGN UUID" />
@@ -54,15 +55,14 @@
       <item value="index Name" />
       <item value="Push Public Doc Data" />
       <item value="public Doc List Page" />
-      <item value="Serializable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="CHINESE" value="248" />
+        <entry key="ENGLISH" value="249" />
         <entry key="FILIPINO" value="1" />
         <entry key="MALAGASY" value="1" />
-        <entry key="NORWEGIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
         <entry key="GREEK" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
