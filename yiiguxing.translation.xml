@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="folder" />
+      <item value="der" />
       <item value="Sms Timer Task Runner" />
       <item value="er {" />
       <item value="Cron expression must consist of 6 fields" />
@@ -53,13 +55,12 @@
       <item value="askRunner {" />
       <item value="Timer Twask Runner" />
       <item value="Scheduled Future" />
-      <item value="set Job Name" />
-      <item value="ny" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="288" />
+        <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="MALAGASY" value="1" />
