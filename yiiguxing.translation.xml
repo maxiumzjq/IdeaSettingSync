@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="attendance Confirm" />
+      <item value="Attendance Confirm" />
+      <item value="ndance Confirm" />
+      <item value="考勤" />
+      <item value="confirm" />
+      <item value="Field" />
       <item value="get Holiday Count" />
       <item value="Meeting Topic" />
       <item value="Meeting Topic Topic" />
@@ -49,17 +55,11 @@
       <item value="le Operator By User Id And Jump(" />
       <item value="rator By User Id And Jump(" />
       <item value="Source must not be null" />
-      <item value="set Misfire Policy" />
-      <item value="Dynamic Timed Task" />
-      <item value="edTask {" />
-      <item value="cTimedTask {" />
-      <item value="start Cron" />
-      <item value="ASSIGN UUID" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="303" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
