@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get User List By Role Id" />
       <item value="get Receiver" />
       <item value="eiver(" />
       <item value="feedback Msg Template" />
@@ -54,12 +55,11 @@
       <item value="User Orgunits" />
       <item value="rOrgunits =" />
       <item value="get Org Unit List By User Id" />
-      <item value="get Org Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="292" />
-        <entry key="ENGLISH" value="293" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="294" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
