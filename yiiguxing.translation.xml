@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Holiday Count" />
       <item value="Meeting Topic" />
       <item value="Meeting Topic Topic" />
       <item value="oa Meeting Topic Topic Flow Dto" />
@@ -54,12 +55,11 @@
       <item value="cTimedTask {" />
       <item value="start Cron" />
       <item value="ASSIGN UUID" />
-      <item value="Process finished with exit code 0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="296" />
-        <entry key="ENGLISH" value="297" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
