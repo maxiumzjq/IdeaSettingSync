@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NTEzMDAyNiwiaWF0IjoxNjU1MTAxMjI2LCJqdGkiOiJsZzc1ZjhmZmJlNWIyNzQ5Njg4NzliZGIzOWVkMjRkZiJ9.0arT2EU14mqIQSQGoqKHbDAnYOLtuN3YTgpemhrZ452nmg-zmSNO6GydzGCA0BLlKoTh3RWsGVblp0PLAcwIdw" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NTMwNTU2OCwiaWF0IjoxNjU1Mjc2NzY4LCJqdGkiOiJsZzJiNTU0YjZhZTVmMTQzYTI5ZjQzOGMwNDQwZTY2ZiJ9.q_37iA561R5AZjJj_NncczBmFs9YXPT5sxZ59Wro-JOfj4cRzuf7xIqS0pwI7j-udlFOEsLHk-knYSrBd69ZUA" />
                   </map>
                 </value>
               </entry>
@@ -175,20 +175,20 @@
       <ParamGroup>
         <option name="bodyParamMap">
           <map>
-            <entry key="calendarDto">
+            <entry key="attendanceConfirmDTO">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.ot.oa.admin.controller.PersonalCalendarController" />
-        <option name="method" value="insertData" />
+        <option name="className" value="com.ot.oa.admin.controller.FullOfficeHolidayFlowController" />
+        <option name="method" value="attendanceConfirm" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/FullOfficeHolidayFlow/attendanceConfirm" />
+        <option name="url" value="/FullOfficeHolidayFlow/attendanceConfirm" />
       </ParamGroup>
     </option>
     <option name="projectList">
