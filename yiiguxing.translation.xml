@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Workflow Feedback Dto" />
+      <item value="wFeedbackDto d" />
       <item value="not a valid Integer value" />
       <item value="folder" />
       <item value="der" />
@@ -53,13 +55,11 @@
       <item value="get Org Unit Ids By User Id" />
       <item value="nit Ids By User Id(" />
       <item value="Timer Task Runner" />
-      <item value="askRunner {" />
-      <item value="Timer Twask Runner" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="291" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
