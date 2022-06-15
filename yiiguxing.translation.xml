@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Meeting Topic" />
+      <item value="Meeting Topic Topic" />
       <item value="oa Meeting Topic Topic Flow Dto" />
       <item value="get User List By Role Id" />
       <item value="get Receiver" />
@@ -53,13 +55,11 @@
       <item value="start Cron" />
       <item value="ASSIGN UUID" />
       <item value="Process finished with exit code 0" />
-      <item value="User Orgunits" />
-      <item value="rOrgunits =" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="294" />
-        <entry key="ENGLISH" value="295" />
+        <entry key="CHINESE" value="296" />
+        <entry key="ENGLISH" value="297" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
