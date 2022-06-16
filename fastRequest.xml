@@ -115,7 +115,7 @@
       </list>
     </option>
     <option name="domain" value="http://localhost:7481" />
-    <option name="enableEnv" value="dev" />
+    <option name="enableEnv" value="localhost" />
     <option name="enableProject" value="oa" />
     <option name="envList">
       <list>
@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NTMwNTU2OCwiaWF0IjoxNjU1Mjc2NzY4LCJqdGkiOiJsZzJiNTU0YjZhZTVmMTQzYTI5ZjQzOGMwNDQwZTY2ZiJ9.q_37iA561R5AZjJj_NncczBmFs9YXPT5sxZ59Wro-JOfj4cRzuf7xIqS0pwI7j-udlFOEsLHk-knYSrBd69ZUA" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NTM3MzQ2NywiaWF0IjoxNjU1MzQ0NjY3LCJqdGkiOiJsZzYzNzA1MGZmYmVhYjQ4NzY4ZmZhOTk0ZTZkYjljOCJ9.-A50tJd4uBA-17z_bnn8akOKlmli7Z42q6-0UneYQRjV-xtu_TjM14jp9m3ujxFF9O9mPdoSCTxEpZ5nn1iGkw" />
                   </map>
                 </value>
               </entry>
@@ -184,7 +184,7 @@
         </option>
         <option name="className" value="com.ot.oa.admin.controller.FullOfficeHolidayFlowController" />
         <option name="method" value="attendanceConfirm" />
-        <option name="methodDescription" value="" />
+        <option name="methodDescription" value="考勤确认" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
         <option name="originUrl" value="/FullOfficeHolidayFlow/attendanceConfirm" />
