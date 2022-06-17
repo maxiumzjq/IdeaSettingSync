@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="plus Seconds" />
+      <item value="Seconds" />
+      <item value="econds(" />
       <item value="Checks if this date-time is before the specified date-time. This checks to see if this date-time represents a point on the local time-line before the other date-time." />
       <item value="the seconds to subtract, may be negative" />
       <item value="Minutes" />
@@ -41,7 +44,6 @@
       <item value="This instance is immutable and unaffected by this method call. @param hour the hour-of-day to set in the result, from 0 to 23 @return a {@code LocalDateTime} based on this date-time with the requested hour, not null @throws DateTimeException if the hour value is invalid" />
       <item value="Returns a copy of this {@code LocalDateTime} with the hour-of-day altered." />
       <item value="our(" />
-      <item value="plus Seconds" />
       <item value="plus Hours" />
       <item value="Returns an adjusted object of the same type as this object with the adjustment made. This adjusts this date-time according to the rules of the specified adjuster. A simple adjuster might simply set the one of the fields, such as the year field. A more complex adjuster might set the date to the last day of the month. A selection of common adjustments is provided in TemporalAdjusters. These include finding the &quot;last day of the month&quot; and &quot;next Wednesday&quot;. The adjuster is responsible for handling special cases, such as the varying lengths of month and leap years. Some example code indicating how and why this method is used: date = date.with(Month.JULY); most key classes implement TemporalAdjuster date = date.with(lastDayOfMonth()); static import from Adjusters date = date.with(next(WEDNESDAY)); static import from Adjusters and DayOfWeek" />
       <item value="Returns a copy of this date-time with the new date and time, checking to see if a new object is in fact required." />
@@ -53,13 +55,11 @@
       <item value="Schedule the given {@link Runnable}, invoking it at the specified execution time and subsequently with the given delay between the completion of one execution and the start of the next. &lt;p&gt;Execution will end once the scheduler shuts down or the returned {@link ScheduledFuture} gets cancelled. @param task the Runnable to execute whenever the trigger fires @param startTime the desired first execution time for the task (if this is in the past, the task will be executed immediately, i.e. as soon as possible) @param delay the delay between the completion of one execution and the start of the next @return a {@link ScheduledFuture} representing pending completion of the task @throws org.springframework.core.task.TaskRejectedException if the given task was not accepted for internal reasons (e.g. a pool overload handling policy or a pool shutdown in progress) @since 5.0 @see scheduleWithFixedDelay(Runnable, Date, long)" />
       <item value="initial Delay" />
       <item value="Delay(" />
-      <item value="Duration" />
-      <item value="EXAMINATION QUERY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="316" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
