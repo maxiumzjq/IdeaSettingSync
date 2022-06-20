@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NTM3MzQ2NywiaWF0IjoxNjU1MzQ0NjY3LCJqdGkiOiJsZzYzNzA1MGZmYmVhYjQ4NzY4ZmZhOTk0ZTZkYjljOCJ9.-A50tJd4uBA-17z_bnn8akOKlmli7Z42q6-0UneYQRjV-xtu_TjM14jp9m3ujxFF9O9mPdoSCTxEpZ5nn1iGkw" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NTcyNDA0MywiaWF0IjoxNjU1Njk1MjQzLCJqdGkiOiJsZ2IwMWJjZmRjMzc0NDRiYzA4MDkxZWJjMWVlNjdlYiJ9.r1gcnKGUF9HRJ3E_4TcRcS92ZODpCURJg4fpA45W_Pjz6_rRp8nmbjEmYQT9Rx29C1qbMkF8r-hjUR-Wal_LHQ" />
                   </map>
                 </value>
               </entry>
@@ -173,22 +173,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.AnnualLeaveController" />
-        <option name="method" value="importData" />
-        <option name="methodDescription" value="导入年休假表格" />
+        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
+        <option name="method" value="searchAttach1" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="" />
-        <option name="requestParamMap">
-          <map>
-            <entry key="file">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="url" value="" />
+        <option name="originUrl" value="elastic/attach1" />
+        <option name="url" value="/elastic/attach1" />
       </ParamGroup>
     </option>
     <option name="projectList">
