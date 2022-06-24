@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="&gt;More formally, if this map contains a mapping from a key {@code k} to a value {@code v} such that {@code (key==null ? k==null : key.equals(k))}, then this method returns {@code v}; otherwise it returns {@code null}. (There can be at most one such mapping.) &lt;p&gt;If this map permits null values, then a return value of {@code null} does not &lt;i&gt;necessarily&lt;i&gt; indicate that the map contains no mapping for the key; it's also possible that the map explicitly maps the key to {@code null}. The {@link containsKey containsKey} operation may be used to distinguish these two cases. @param key the key whose associated value is to be returned @return the value to which the specified key is mapped, or {@code null} if this map contains no mapping for the key @throws ClassCastException if the key is of an inappropriate type for this map (&lt;a href=&quot;{@docRoot}javautilCollection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;) @throws NullPointerException if the specified key is null and this map does not permit null keys (&lt;a href=&quot;{@docRoot}javautilCollection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;)" />
+      <item value="Returns the value to which the specified key is mapped, or {@code null} if this map contains no mapping for the key." />
       <item value="get Role Operator By User Id And Jump" />
       <item value="e Operator By User Id And Jump(" />
       <item value="has View All Process" />
@@ -53,13 +55,11 @@
       <item value="Workflow Feedback Dto" />
       <item value="wFeedbackDto d" />
       <item value="not a valid Integer value" />
-      <item value="folder" />
-      <item value="der" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
