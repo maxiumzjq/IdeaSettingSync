@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NjA3OTcyNywiaWF0IjoxNjU2MDUwOTI3LCJqdGkiOiJsZ2QzNzQ4NWM4MWYxMTQyOTNhZmUyNmU1NTAxZDk5NCJ9.ZX6H9gubOTch9_cFaFKcUpE56cGeHb8aG5KpLvN-00c5OxFGSaB1hemfvAhU-6QODXSPaTw0Mt45PYRr3uGV4A" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NjMyMjkyMywiaWF0IjoxNjU2Mjk0MTIzLCJqdGkiOiJsZ2Q3Njc3NTg3YjA4NjRkNzVhYzUzOTFiNmQ1Yzk5MSJ9.ecALZOdOAtj8MuIaSxY3aY9--4a43y4Z_PtuM_gtdgfxKoY7lE5QcFHonZsqgQ8o3lmi_dQo7Odj0Br6LbOWFQ" />
                   </map>
                 </value>
               </entry>
@@ -173,13 +173,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.AnnualLeaveController" />
-        <option name="method" value="annualTest" />
+        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
+        <option name="method" value="searchAttach1" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="originUrl" value="elastic/attach1" />
+        <option name="url" value="/elastic/attach1" />
       </ParamGroup>
     </option>
     <option name="projectList">
