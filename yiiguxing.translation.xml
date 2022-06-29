@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Role Ids User Id" />
       <item value="get Org Unit Ids By User Id" />
       <item value="get Current Department Names" />
       <item value="get User Role Names" />
@@ -54,12 +55,11 @@
       <item value="Meeting Topic" />
       <item value="Meeting Topic Topic" />
       <item value="oa Meeting Topic Topic Flow Dto" />
-      <item value="get User List By Role Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="346" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="348" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
