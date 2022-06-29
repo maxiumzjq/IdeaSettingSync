@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Current Department Names" />
+      <item value="get User Role Names" />
       <item value="set Receive Time" />
       <item value="Oa Mail Mailinfo" />
       <item value="main Public Doc Sign" />
@@ -53,13 +55,11 @@
       <item value="oa Meeting Topic Topic Flow Dto" />
       <item value="get User List By Role Id" />
       <item value="get Receiver" />
-      <item value="eiver(" />
-      <item value="feedback Msg Template" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="342" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
