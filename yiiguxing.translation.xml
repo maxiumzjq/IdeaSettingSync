@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The number of object passed must be even but was [1]" />
       <item value="12111323 swfsdfdsgdfgdfsg" />
       <item value="Common" />
       <item value="public Common List Page" />
@@ -54,12 +55,11 @@
       <item value="考勤" />
       <item value="confirm" />
       <item value="Field" />
-      <item value="get Holiday Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="350" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
