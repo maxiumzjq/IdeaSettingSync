@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="exists Index" />
       <item value="Actual value of parameter 'indexName' is always 'info_public_data'" />
       <item value="The number of object passed must be even but was [1]" />
       <item value="12111323 swfsdfdsgdfgdfsg" />
@@ -54,12 +55,11 @@
       <item value="Attendance Confirm" />
       <item value="ndance Confirm" />
       <item value="考勤" />
-      <item value="confirm" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="352" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="ENGLISH" value="353" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656300936617" />
+    <option name="lastTrimTime" value="1656902673141" />
   </component>
 </application>
