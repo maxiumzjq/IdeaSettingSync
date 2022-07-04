@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="SonarLint: Remove this useless assignment to local variable &quot;numbers&quot;." />
       <item value="exists Index" />
       <item value="Actual value of parameter 'indexName' is always 'info_public_data'" />
       <item value="The number of object passed must be even but was [1]" />
@@ -54,11 +55,10 @@
       <item value="attendance Confirm" />
       <item value="Attendance Confirm" />
       <item value="ndance Confirm" />
-      <item value="考勤" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="352" />
+        <entry key="CHINESE" value="353" />
         <entry key="ENGLISH" value="353" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
