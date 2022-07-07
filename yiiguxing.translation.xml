@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="DRAFT BOX CODE" />
       <item value="Accepts a function that extracts a Comparable sort key from a type T, and returns a Comparator that compares by that sort key." />
       <item value="number Of Actions" />
       <item value="push Meeting Topic" />
@@ -54,12 +55,11 @@
       <item value="Minutes" />
       <item value="Constant expression required" />
       <item value="get Org Unit By Id" />
-      <item value="get Expect Days" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
