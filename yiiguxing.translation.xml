@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Bulk Actions" />
       <item value="set Flush Interval" />
       <item value="1000000" />
       <item value="Seconds" />
@@ -54,12 +55,11 @@
       <item value="required property is missing" />
       <item value="upload" />
       <item value="a" />
-      <item value="find By Code And Tenant Id" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="369" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="ENGLISH" value="369" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
