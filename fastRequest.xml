@@ -114,7 +114,7 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:7481" />
+    <option name="domain" value="http://localhost:8080" />
     <option name="enableEnv" value="localhost" />
     <option name="enableProject" value="lo" />
     <option name="envList">
@@ -173,13 +173,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
-        <option name="method" value="searchAttach1" />
+        <option name="className" value="com.zero.oa.controllers.DynamicJobController" />
+        <option name="method" value="stopTask" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="oa-admin" />
-        <option name="originUrl" value="elastic/attach1" />
-        <option name="url" value="/elastic/attach1" />
+        <option name="module" value="oa_admin" />
+        <option name="originUrl" value="/dynamic/job/stopTask" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="jobId">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="url" value="/dynamic/job/stopTask" />
       </ParamGroup>
     </option>
     <option name="projectList">
