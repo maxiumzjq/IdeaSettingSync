@@ -114,7 +114,7 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8080" />
+    <option name="domain" value="http://localhost:7481" />
     <option name="enableEnv" value="localhost" />
     <option name="enableProject" value="lo" />
     <option name="envList">
@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1NzI5NjMxMSwiaWF0IjoxNjU3MjY3NTExLCJqdGkiOiJsZ2U5MTA0ODM4OWQ4ZjQ2MmE5MmYyODhlMjQzOTJjNCJ9.zH7Mx3UoU_fw3tSU3flfiakq-b8ujmc5TGQMvT_j67ve-ma_Z9LUeo4XYHcHbWGdu_oKF5Idj_5BgTkE4EDZ4g" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxY2FlMTEzMGQyZmI0NTFlODExNmRhYjcyNmJjNThjZiIsImV4cCI6MTY1NzY0MzgwNCwiaWF0IjoxNjU3NjE1MDA0LCJqdGkiOiJsZzVlZjE5MDU0YTVmNTQzMzc4YTE3MjdmYjIxMGFhZiJ9.DYWBQRwWq5duzNxMLhyY73Jh0uO3e6VpPN822tTo9-s-dHTXYpZRIZg0MknCQ-gMF2Mc-hy-kGcjM3lSWwzE6g" />
                   </map>
                 </value>
               </entry>
@@ -173,14 +173,19 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.zero.oa.controllers.DynamicJobController" />
-        <option name="method" value="stopTask" />
+        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
+        <option name="method" value="restartPushData" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="oa_admin" />
-        <option name="originUrl" value="/dynamic/job/stopTask" />
+        <option name="module" value="oa-admin" />
+        <option name="originUrl" value="elastic/restartPushData" />
         <option name="requestParamMap">
           <map>
+            <entry key="cron">
+              <value>
+                <Object />
+              </value>
+            </entry>
             <entry key="jobId">
               <value>
                 <Object />
@@ -188,7 +193,7 @@
             </entry>
           </map>
         </option>
-        <option name="url" value="/dynamic/job/stopTask" />
+        <option name="url" value="/elastic/restartPushData" />
       </ParamGroup>
     </option>
     <option name="projectList">
