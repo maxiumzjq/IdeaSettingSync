@@ -116,7 +116,7 @@
     </option>
     <option name="domain" value="http://localhost:7481" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="lo" />
+    <option name="enableProject" value="oa" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxY2FlMTEzMGQyZmI0NTFlODExNmRhYjcyNmJjNThjZiIsImV4cCI6MTY1NzY0MzgwNCwiaWF0IjoxNjU3NjE1MDA0LCJqdGkiOiJsZzVlZjE5MDU0YTVmNTQzMzc4YTE3MjdmYjIxMGFhZiJ9.DYWBQRwWq5duzNxMLhyY73Jh0uO3e6VpPN822tTo9-s-dHTXYpZRIZg0MknCQ-gMF2Mc-hy-kGcjM3lSWwzE6g" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxY2FlMTEzMGQyZmI0NTFlODExNmRhYjcyNmJjNThjZiIsImV4cCI6MTY1Nzg3OTQyMSwiaWF0IjoxNjU3ODUwNjIxLCJqdGkiOiJsZzc5MmE0MjJjMWU1ZDQwOGZhMjUwNzliZjQwMTNmZCJ9.gBjfNZ3vRnc_sl-bfb4ndrqXY2LNnAr_zY8fmNZXwKS-oF69rUg8KgDsImyB_aqJHhKeRS6KXpJIZGTjlFElnA" />
                   </map>
                 </value>
               </entry>
@@ -173,27 +173,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
-        <option name="method" value="restartPushData" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="POST" />
+        <option name="className" value="com.ot.oa.admin.controller.MailController" />
+        <option name="method" value="deleteMail" />
+        <option name="methodDescription" value="删除用户邮件" />
+        <option name="methodType" value="DELETE" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="elastic/restartPushData" />
-        <option name="requestParamMap">
+        <option name="originUrl" value="/mail/{ids}" />
+        <option name="pathParamMap">
           <map>
-            <entry key="cron">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="jobId">
+            <entry key="ids">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="url" value="/elastic/restartPushData" />
+        <option name="url" value="/mail/ids_4ugq9" />
       </ParamGroup>
     </option>
     <option name="projectList">
