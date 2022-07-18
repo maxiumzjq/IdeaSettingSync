@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="has View All Process By User Id" />
       <item value="restart Push Data" />
       <item value="rest Push Data" />
       <item value="a {@link ScheduledFuture} representing pending completion of the task, or {@code null} if the given Trigger object never fires (i.e. returns {@code null} from {@link TriggernextExecutionTime})" />
@@ -54,12 +55,11 @@
       <item value="Meeting Topic Mapping DTO" />
       <item value="Topic Topic" />
       <item value="Oa Meeting Topic Topic" />
-      <item value="Oa Meeting Topic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="378" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="CHINESE" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -72,6 +72,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657594283639" />
+    <option name="lastTrimTime" value="1658136776504" />
   </component>
 </application>
