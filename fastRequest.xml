@@ -178,7 +178,7 @@
         <option name="methodDescription" value="删除用户邮件" />
         <option name="methodType" value="DELETE" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/mail/{ids}" />
+        <option name="originUrl" value="" />
         <option name="pathParamMap">
           <map>
             <entry key="ids">
@@ -188,7 +188,7 @@
             </entry>
           </map>
         </option>
-        <option name="url" value="/mail/ids_4ugq9" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
