@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="USER ORG IDS SPLIT" />
       <item value="has View All Process By User Id" />
       <item value="restart Push Data" />
       <item value="rest Push Data" />
@@ -54,12 +55,11 @@
       <item value="field Mapping" />
       <item value="Meeting Topic Mapping DTO" />
       <item value="Topic Topic" />
-      <item value="Oa Meeting Topic Topic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="380" />
-        <entry key="ENGLISH" value="381" />
+        <entry key="CHINESE" value="381" />
+        <entry key="ENGLISH" value="382" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
