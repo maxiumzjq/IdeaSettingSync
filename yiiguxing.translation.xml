@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Doc Dispatch" />
+      <item value="push Public Doc Dispatch" />
+      <item value="get Process Status" />
       <item value="USER ORG IDS SPLIT" />
       <item value="has View All Process By User Id" />
       <item value="restart Push Data" />
@@ -52,14 +55,11 @@
       <item value="get Role Operator By User Id And Jump" />
       <item value="e Operator By User Id And Jump(" />
       <item value="has View All Process" />
-      <item value="field Mapping" />
-      <item value="Meeting Topic Mapping DTO" />
-      <item value="Topic Topic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
-        <entry key="ENGLISH" value="382" />
+        <entry key="CHINESE" value="384" />
+        <entry key="ENGLISH" value="385" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
