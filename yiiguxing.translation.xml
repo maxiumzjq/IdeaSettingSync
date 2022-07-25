@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="budata id" />
+      <item value="perm user ids" />
+      <item value="user ids;" />
+      <item value="Circulated To Elastic" />
+      <item value="irculatedToElastic }" />
+      <item value="list Circulated To Elastic" />
+      <item value="circulated" />
+      <item value="传阅" />
+      <item value="list To Read To Elastic" />
       <item value="toread" />
       <item value="operation Id" />
       <item value="resource id" />
@@ -46,20 +55,11 @@
       <item value="The number of object passed must be even but was [1]" />
       <item value="12111323 swfsdfdsgdfgdfsg" />
       <item value="Common" />
-      <item value="public Common List Page" />
-      <item value="get Role Ids User Id" />
-      <item value="get Org Unit Ids By User Id" />
-      <item value="get Current Department Names" />
-      <item value="get User Role Names" />
-      <item value="set Receive Time" />
-      <item value="Oa Mail Mailinfo" />
-      <item value="main Public Doc Sign" />
-      <item value="&gt;More formally, if this map contains a mapping from a key {@code k} to a value {@code v} such that {@code (key==null ? k==null : key.equals(k))}, then this method returns {@code v}; otherwise it returns {@code null}. (There can be at most one such mapping.) &lt;p&gt;If this map permits null values, then a return value of {@code null} does not &lt;i&gt;necessarily&lt;i&gt; indicate that the map contains no mapping for the key; it's also possible that the map explicitly maps the key to {@code null}. The {@link containsKey containsKey} operation may be used to distinguish these two cases. @param key the key whose associated value is to be returned @return the value to which the specified key is mapped, or {@code null} if this map contains no mapping for the key @throws ClassCastException if the key is of an inappropriate type for this map (&lt;a href=&quot;{@docRoot}javautilCollection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;) @throws NullPointerException if the specified key is null and this map does not permit null keys (&lt;a href=&quot;{@docRoot}javautilCollection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="397" />
+        <entry key="ENGLISH" value="397" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -67,6 +67,7 @@
         <entry key="MALAGASY" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="GREEK" value="2" />
+        <entry key="IGBO" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
