@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI1MDI1ZDcyMDFlYzk0MzBjYjZlMmZiODcwZjg3NzlhYSIsImV4cCI6MTY1ODQ4NzI3NCwiaWF0IjoxNjU4NDU4NDc0LCJqdGkiOiJsZzVmMGEyNDBjY2I3MDQxOTRiZjgyODM2Njk1NDdiOCJ9.9HsVL5ieIBkKTMcoubseiwQb7cFjZ7ZlJkjs3CrticAEDML_ah_60tV7HqnYUo-TtFLdPNxbXhDVODD85WtHvg" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1ODc2OTM0MSwiaWF0IjoxNjU4NzQwNTQxLCJqdGkiOiJsZzMxNjYwOGU0YjJlNzQ4YzZiYzE4NzU2ODBkYWI5YiJ9.-vgc84oVTWL4VUOpnXLEIZPWaO171xYD0NnGmfROAh-KBmTdXvsopk5RfHbziCY36jnsH34D8yWDVmmjh4v22A" />
                   </map>
                 </value>
               </entry>
@@ -178,8 +178,8 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="originUrl" value="elastic/attach1" />
+        <option name="url" value="/elastic/attach1" />
       </ParamGroup>
     </option>
     <option name="projectList">
