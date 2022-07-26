@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="push Meeting" />
       <item value="millis" />
       <item value="l" />
       <item value="STORED scripts are saved as part of the {@link org.elasticsearch.cluster.ClusterState}" />
@@ -54,12 +55,11 @@
       <item value="bulk process already closed" />
       <item value="Scheduler flushScheduler" />
       <item value="30,000 milliseconds timeout on connection http-outgoing-5" />
-      <item value="BATCH COUNT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="404" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
