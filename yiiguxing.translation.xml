@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="millis" />
+      <item value="l" />
       <item value="STORED scripts are saved as part of the {@link org.elasticsearch.cluster.ClusterState}" />
       <item value="INLINE scripts are specified in numerous queries and compiled on-the-fly." />
       <item value="Constructor for a script that requires the use of compiler options." />
@@ -53,13 +55,11 @@
       <item value="Scheduler flushScheduler" />
       <item value="30,000 milliseconds timeout on connection http-outgoing-5" />
       <item value="BATCH COUNT" />
-      <item value="SonarLint: Remove this useless assignment to local variable &quot;numbers&quot;." />
-      <item value="exists Index" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="400" />
-        <entry key="ENGLISH" value="401" />
+        <entry key="CHINESE" value="402" />
+        <entry key="ENGLISH" value="403" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
