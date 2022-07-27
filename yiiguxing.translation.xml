@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="occur time" />
+      <item value="bu Data Id" />
+      <item value="bu" />
+      <item value="Data Id" />
       <item value="push Meeting" />
       <item value="millis" />
       <item value="l" />
@@ -51,21 +55,19 @@
       <item value="MAIL INDEX NAME" />
       <item value="DRAFT BOX CODE" />
       <item value="Accepts a function that extracts a Comparable sort key from a type T, and returns a Comparator that compares by that sort key." />
-      <item value="number Of Actions" />
-      <item value="bulk process already closed" />
-      <item value="Scheduler flushScheduler" />
-      <item value="30,000 milliseconds timeout on connection http-outgoing-5" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="403" />
-        <entry key="ENGLISH" value="404" />
+        <entry key="CHINESE" value="405" />
+        <entry key="ENGLISH" value="406" />
+        <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="NORWEGIAN" value="2" />
+        <entry key="TURKISH" value="2" />
         <entry key="GREEK" value="2" />
         <entry key="IGBO" value="1" />
         <entry key="ITALIAN" value="1" />
