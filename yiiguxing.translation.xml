@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Role And Org Name List By User Id" />
+      <item value="And Org Name List By User Id(" />
+      <item value="le And Org Name List By User Id(" />
       <item value="Doc Write Request" />
       <item value="Adds a list of requests to be executed. Either index or delete requests." />
       <item value="occur time" />
@@ -52,14 +55,11 @@
       <item value="Seconds" />
       <item value="10" />
       <item value="Seal" />
-      <item value="set Backoff Policy" />
-      <item value="Validation Failed: 1: no requests added;" />
-      <item value="MAIL INDEX NAME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
