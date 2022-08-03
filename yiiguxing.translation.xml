@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The last packet successfully received from the server was 38 milliseconds ago. The last packet sent successfully to the server was 52 milliseconds ago." />
       <item value="get Role And Org Name List By User Id" />
       <item value="And Org Name List By User Id(" />
       <item value="le And Org Name List By User Id(" />
@@ -54,12 +55,11 @@
       <item value="1000000" />
       <item value="Seconds" />
       <item value="10" />
-      <item value="Seal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="413" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
@@ -75,6 +75,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658716280913" />
+    <option name="lastTrimTime" value="1659521299648" />
   </component>
 </application>
