@@ -174,45 +174,12 @@
     <option name="paramGroup">
       <ParamGroup>
         <option name="className" value="com.ot.oa.admin.controller.MailController" />
-        <option name="method" value="getUserMail" />
-        <option name="methodDescription" value="查询用户邮件详情" />
+        <option name="method" value="frontPageMailList" />
+        <option name="methodDescription" value="首页-电子邮件" />
         <option name="methodType" value="GET" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/mail/{userMailId}" />
-        <option name="pathParamMap">
-          <map>
-            <entry key="userMailId">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="requestParamMap">
-          <map>
-            <entry key="hasRead">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="keyWord">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="mailBoxId">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="redFlag">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="url" value="/mail/96fdeb2ae63e4297ba7a389d559ab3eb" />
+        <option name="originUrl" value="/mail/frontPageMailList" />
+        <option name="url" value="/mail/frontPageMailList" />
       </ParamGroup>
     </option>
     <option name="projectList">
