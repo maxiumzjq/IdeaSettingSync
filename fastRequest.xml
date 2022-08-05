@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1OTYyODIyMiwiaWF0IjoxNjU5NTk5NDIyLCJqdGkiOiJsZzI5NDEwYjFmNWIxZDQ5MDhhNTkzNDYxOWUyM2NmMSJ9.lX8DmcwAip9n6J69kkX-QSeI5JvpKhqbXnajuhz8bbMmvgcg2Hhto0b8PfuMb3uLLOKws1pAUU6ir8EidWgnzA" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1OTcxNDkxMiwiaWF0IjoxNjU5Njg2MTEyLCJqdGkiOiJsZ2M4MWM3MzA4NzE2NDQxY2ZiNzVmNzVlYmI1YzY1ZiJ9.Zt_l2Tqw0oxbfT1u6K6AM98W_Vbs1uwLbEwHQ0ayLmcubgxlEYbvI1Jn3o0uL3F6NVpQwRVGVgjngbCKKiFgew" />
                   </map>
                 </value>
               </entry>
@@ -173,13 +173,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.MailController" />
-        <option name="method" value="frontPageMailList" />
-        <option name="methodDescription" value="首页-电子邮件" />
-        <option name="methodType" value="GET" />
+        <option name="bodyParamMap">
+          <map>
+            <entry key="holidayFlowDTO">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="className" value="com.ot.oa.admin.controller.FullOfficeHolidayFlowController" />
+        <option name="method" value="insertHolidayFlow" />
+        <option name="methodDescription" value="新增假期" />
+        <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/mail/frontPageMailList" />
-        <option name="url" value="/mail/frontPageMailList" />
+        <option name="originUrl" value="/FullOfficeHolidayFlow/" />
+        <option name="url" value="/FullOfficeHolidayFlow/" />
       </ParamGroup>
     </option>
     <option name="projectList">
