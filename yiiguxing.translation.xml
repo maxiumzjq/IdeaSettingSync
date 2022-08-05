@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="30,000 milliseconds timeout on connection http-outgoing-17 [ACTIVE]" />
       <item value="The last packet successfully received from the server was 38 milliseconds ago. The last packet sent successfully to the server was 52 milliseconds ago." />
       <item value="get Role And Org Name List By User Id" />
       <item value="And Org Name List By User Id(" />
@@ -54,12 +55,11 @@
       <item value="set Flush Interval" />
       <item value="1000000" />
       <item value="Seconds" />
-      <item value="10" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="414" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
