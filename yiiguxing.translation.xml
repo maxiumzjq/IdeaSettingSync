@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="java: JPS incremental annotation processing is disabled. Compilation results on partial recompilation may be inaccurate. Use build process &quot;jps.track.ap.dependencies&quot; VM flag to enabledisable incremental annotation processing environment." />
       <item value="get Receiver Id" />
       <item value="30,000 milliseconds timeout on connection http-outgoing-17 [ACTIVE]" />
       <item value="The last packet successfully received from the server was 38 milliseconds ago. The last packet sent successfully to the server was 52 milliseconds ago." />
@@ -54,12 +55,11 @@
       <item value="push Meeting Topic" />
       <item value="set Bulk Actions" />
       <item value="set Flush Interval" />
-      <item value="1000000" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="415" />
+        <entry key="ENGLISH" value="416" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
