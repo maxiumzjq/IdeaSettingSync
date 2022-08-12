@@ -114,9 +114,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8080" />
+    <option name="domain" value="http://localhost:7481" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="lo" />
+    <option name="enableProject" value="oa" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY1OTcxNDkxMiwiaWF0IjoxNjU5Njg2MTEyLCJqdGkiOiJsZ2M4MWM3MzA4NzE2NDQxY2ZiNzVmNzVlYmI1YzY1ZiJ9.Zt_l2Tqw0oxbfT1u6K6AM98W_Vbs1uwLbEwHQ0ayLmcubgxlEYbvI1Jn3o0uL3F6NVpQwRVGVgjngbCKKiFgew" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2MDMyODkyOCwiaWF0IjoxNjYwMzAwMTI4LCJqdGkiOiJsZzEwMzg3ODAzZTM5MDQ5ZDViOWIxMzdkODRjMzdiNCJ9.qpq6Go1-2Vdfv9q_YSbpMiRGHoFIWmuv4_oKSJaFqirei0RhDd5pIgEOkAS9FWczcMSkcgFhX4RIAIpq8pbZug" />
                   </map>
                 </value>
               </entry>
@@ -173,22 +173,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
+        <option name="className" value="com.ot.oa.admin.controller.MailController" />
+        <option name="method" value="selectSignature" />
+        <option name="methodDescription" value="邮箱设置-选择个性签名" />
+        <option name="methodType" value="PUT" />
+        <option name="module" value="oa-admin" />
+        <option name="originUrl" value="/mail/signature/selectSignature/{signId}" />
+        <option name="pathParamMap">
           <map>
-            <entry key="holidayFlowDTO">
+            <entry key="signId">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.ot.oa.admin.controller.FullOfficeHolidayFlowController" />
-        <option name="method" value="insertHolidayFlow" />
-        <option name="methodDescription" value="新增假期" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="oa-admin" />
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="url" value="/mail/signature/selectSignature/29dce3a5c1884bdd8795b4ea51819b21" />
       </ParamGroup>
     </option>
     <option name="projectList">
