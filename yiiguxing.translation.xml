@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Increment {@code value} of a hash {@code hashKey} by the given {@code delta}." />
+      <item value="Set the {@code value} of a hash {@code hashKey} only if {@code hashKey} does not exist." />
+      <item value="put If Absent" />
+      <item value="ent(" />
+      <item value="Increment {@code value} of a hash {@code hashKey} by the given {@code delta}. @param key must not be {@literal null}. @param hashKey must not be {@literal null}. @param delta @return {@literal null} when used in pipeline transaction." />
       <item value="ues)" />
       <item value="add Ops For Set" />
       <item value="s For Set" />
@@ -50,16 +55,11 @@
       <item value="resource id" />
       <item value="parent resource id" />
       <item value="Doc Dispatch" />
-      <item value="push Public Doc Dispatch" />
-      <item value="get Process Status" />
-      <item value="USER ORG IDS SPLIT" />
-      <item value="has View All Process By User Id" />
-      <item value="restart Push Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="427" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="CHINESE" value="433" />
+        <entry key="ENGLISH" value="434" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
