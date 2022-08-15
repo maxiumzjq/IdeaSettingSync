@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ues)" />
+      <item value="add Ops For Set" />
+      <item value="s For Set" />
+      <item value="add Redis For Set" />
+      <item value="ops For Set" />
+      <item value="ps For Set(" />
+      <item value="add Set Redis" />
+      <item value="t Redis" />
+      <item value="Get all elements of set at {@code key}." />
+      <item value="members" />
       <item value="multi Get(" />
       <item value="java: JPS incremental annotation processing is disabled. Compilation results on partial recompilation may be inaccurate. Use build process &quot;jps.track.ap.dependencies&quot; VM flag to enabledisable incremental annotation processing environment." />
       <item value="get Receiver Id" />
@@ -45,21 +55,11 @@
       <item value="USER ORG IDS SPLIT" />
       <item value="has View All Process By User Id" />
       <item value="restart Push Data" />
-      <item value="rest Push Data" />
-      <item value="a {@link ScheduledFuture} representing pending completion of the task, or {@code null} if the given Trigger object never fires (i.e. returns {@code null} from {@link TriggernextExecutionTime})" />
-      <item value="Schedule the given {@link Runnable}, invoking it whenever the trigger indicates a next execution time. &lt;p&gt;Execution will end once the scheduler shuts down or the returned {@link ScheduledFuture} gets cancelled." />
-      <item value="Schedule the given {@link Runnable}, invoking it whenever the trigger indicates a next execution time." />
-      <item value="Waits if necessary for at most the given time for the computation to complete, and then retrieves its result, if available." />
-      <item value="Waits if necessary for the computation to complete, and then retrieves its result." />
-      <item value="restart Cron" />
-      <item value="rt Cron(" />
-      <item value="push Meeting Topic" />
-      <item value="set Bulk Actions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="427" />
+        <entry key="ENGLISH" value="428" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
