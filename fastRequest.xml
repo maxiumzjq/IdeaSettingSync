@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2MDMyODkyOCwiaWF0IjoxNjYwMzAwMTI4LCJqdGkiOiJsZzEwMzg3ODAzZTM5MDQ5ZDViOWIxMzdkODRjMzdiNCJ9.qpq6Go1-2Vdfv9q_YSbpMiRGHoFIWmuv4_oKSJaFqirei0RhDd5pIgEOkAS9FWczcMSkcgFhX4RIAIpq8pbZug" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2MDY1NzM4NywiaWF0IjoxNjYwNjI4NTg3LCJqdGkiOiJsZzM5MDZmYTExYzM5ODQwYTFhN2ExMTZlZTRiM2JiMSJ9.vHnd962-gxTdGiPtIEoS_g9VxO47JsPmFwUIrphLq80RTq_1MU0clELXrNQVQRfjJByrQE0MYFyiA8Rl0aeOBw" />
                   </map>
                 </value>
               </entry>
@@ -173,22 +173,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.MailController" />
-        <option name="method" value="selectSignature" />
-        <option name="methodDescription" value="邮箱设置-选择个性签名" />
-        <option name="methodType" value="PUT" />
+        <option name="className" value="com.ot.oa.admin.controller.InfoController" />
+        <option name="method" value="listNationalPartyBuilding" />
+        <option name="methodDescription" value="查询国企党建数据" />
+        <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/mail/signature/selectSignature/{signId}" />
-        <option name="pathParamMap">
+        <option name="originUrl" value="{/info}/nationalPartyBuilding/page" />
+        <option name="requestParamMap">
           <map>
-            <entry key="signId">
+            <entry key="searchUtil">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="url" value="/mail/signature/selectSignature/29dce3a5c1884bdd8795b4ea51819b21" />
+        <option name="url" value="/{/info}/nationalPartyBuilding/page" />
       </ParamGroup>
     </option>
     <option name="projectList">
