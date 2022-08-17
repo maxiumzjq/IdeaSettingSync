@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2MDY1NzM4NywiaWF0IjoxNjYwNjI4NTg3LCJqdGkiOiJsZzM5MDZmYTExYzM5ODQwYTFhN2ExMTZlZTRiM2JiMSJ9.vHnd962-gxTdGiPtIEoS_g9VxO47JsPmFwUIrphLq80RTq_1MU0clELXrNQVQRfjJByrQE0MYFyiA8Rl0aeOBw" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2MDcyNzgyOCwiaWF0IjoxNjYwNjk5MDI4LCJqdGkiOiJsZ2E2YjZlMjJiYWMxMDQwZmJhYzhkNDI0YTFmNjgwMiJ9.q3bffAmifNXNYVEw7yumDWRfOLiYCChaPmN4ts8E8RPVhMefj0jf83j1e4sQgkMjNrGA13jd9iJsKF7ROI0fUQ" />
                   </map>
                 </value>
               </entry>
@@ -174,11 +174,11 @@
     <option name="paramGroup">
       <ParamGroup>
         <option name="className" value="com.ot.oa.admin.controller.InfoController" />
-        <option name="method" value="listNationalPartyBuilding" />
-        <option name="methodDescription" value="查询国企党建数据" />
+        <option name="method" value="listPage" />
+        <option name="methodDescription" value="获取信息分类分页数据" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="{/info}/nationalPartyBuilding/page" />
+        <option name="originUrl" value="{/info}/type/page" />
         <option name="requestParamMap">
           <map>
             <entry key="searchUtil">
@@ -188,7 +188,7 @@
             </entry>
           </map>
         </option>
-        <option name="url" value="/{/info}/nationalPartyBuilding/page" />
+        <option name="url" value="/{/info}/type/page" />
       </ParamGroup>
     </option>
     <option name="projectList">
