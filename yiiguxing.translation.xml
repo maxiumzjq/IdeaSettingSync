@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="push Seal Flow" />
       <item value="list Cultural" />
       <item value="type List" />
       <item value="cultural" />
@@ -54,12 +55,11 @@
       <item value="Constructor for a script that does not need to use compiler options." />
       <item value="budata id" />
       <item value="perm user ids" />
-      <item value="user ids;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="445" />
-        <entry key="ENGLISH" value="446" />
+        <entry key="CHINESE" value="446" />
+        <entry key="ENGLISH" value="447" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
