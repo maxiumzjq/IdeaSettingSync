@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="SessionDestroyedEvent" />
+      <item value="Unable to publish SessionDestroyedEvent" />
       <item value="set Cover Pic Url" />
       <item value="list By Bu Type And Bu Id" />
       <item value="push Seal Flow" />
@@ -53,13 +55,11 @@
       <item value="l" />
       <item value="STORED scripts are saved as part of the {@link org.elasticsearch.cluster.ClusterState}" />
       <item value="INLINE scripts are specified in numerous queries and compiled on-the-fly." />
-      <item value="Constructor for a script that requires the use of compiler options." />
-      <item value="Constructor for a script that does not need to use compiler options." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="449" />
+        <entry key="CHINESE" value="450" />
+        <entry key="ENGLISH" value="450" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
@@ -75,6 +75,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660530554455" />
+    <option name="lastTrimTime" value="1661147483779" />
   </component>
 </application>
