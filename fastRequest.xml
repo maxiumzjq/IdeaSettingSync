@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJiN2NmYzQzMzAyNTc0YTk4Yjg1MzI5YjcwMWE5ZjQ5OCIsImV4cCI6MTY2MTI1NDkyOSwiaWF0IjoxNjYxMjI2MTI5LCJqdGkiOiJsZ2M1ZTUyZGRhOWIyNzRkZGM5ZTM3MWRkMWI3MTU3YyJ9.heF5mm3GQfY1p88fJ_1h8IRYMvSOsk6urQy3fawa9QeK0dCJyFQk0kMpIYmOYbnBkmhsJwmImdDvUneNwNwZwA" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzN2ZjY2VlZjBkMjM0NTIxOWJlMDdkMTlmZjM1NTc2ZSIsImV4cCI6MTY2MTI2NDE4NiwiaWF0IjoxNjYxMjM1Mzg2LCJqdGkiOiJsZ2JjMjU0MjVkMzYyYzRjODBhYzhiYmQxYmRkZTExNSJ9.dv1KTWBiXpqf6rwH-sjsdLNGYLX1OCxXtASKh4_4sCw57BmNJ1srpNyTQVBqCs1C3qJbkZPeC8Uf-itAliCP8g" />
                   </map>
                 </value>
               </entry>
@@ -178,7 +178,7 @@
         <option name="methodDescription" value="查询国企党建数据" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="{/info}/cultural/page" />
+        <option name="originUrl" value="" />
         <option name="requestParamMap">
           <map>
             <entry key="searchUtil">
@@ -188,7 +188,7 @@
             </entry>
           </map>
         </option>
-        <option name="url" value="/{/info}/cultural/page" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
