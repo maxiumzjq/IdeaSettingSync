@@ -174,9 +174,7 @@
             <map>
               <entry key="localhost">
                 <value>
-                  <map>
-                    <entry key="Content-Type" value="application/x-www-form-urlencoded" />
-                  </map>
+                  <map />
                 </value>
               </entry>
             </map>
@@ -187,13 +185,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.example.demo.GzwController" />
+        <option name="className" value="com.example.demo.controllers.GzwController" />
         <option name="method" value="downloadES" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="demo" />
-        <option name="originUrl" value="/services/gzw/download" />
-        <option name="url" value="/services/gzw/download" />
+        <option name="originUrl" value="gzw/" />
+        <option name="url" value="/gzw/" />
       </ParamGroup>
     </option>
     <option name="projectList">
