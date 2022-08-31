@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="record" />
+      <item value="ord e" />
       <item value="rember" />
       <item value="rember elastic" />
       <item value="Determine if given hash hashKey exists." />
@@ -53,15 +55,14 @@
       <item value="Doc Write Request" />
       <item value="Adds a list of requests to be executed. Either index or delete requests." />
       <item value="occur time" />
-      <item value="bu Data Id" />
-      <item value="bu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="457" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="CHINESE" value="458" />
+        <entry key="ENGLISH" value="459" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
