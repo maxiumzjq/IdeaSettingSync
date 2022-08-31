@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Determine if given hash hashKey exists." />
+      <item value="Increment value of a hash hashKey by the given delta." />
+      <item value="Set the value of a hash hashKey." />
+      <item value="Set the value of a hash hashKey only if hashKey does not exist." />
       <item value="SessionDestroyedEvent" />
       <item value="Unable to publish SessionDestroyedEvent" />
       <item value="set Cover Pic Url" />
@@ -51,15 +55,11 @@
       <item value="bu" />
       <item value="Data Id" />
       <item value="push Meeting" />
-      <item value="millis" />
-      <item value="l" />
-      <item value="STORED scripts are saved as part of the {@link org.elasticsearch.cluster.ClusterState}" />
-      <item value="INLINE scripts are specified in numerous queries and compiled on-the-fly." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="450" />
-        <entry key="ENGLISH" value="450" />
+        <entry key="CHINESE" value="454" />
+        <entry key="ENGLISH" value="455" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
@@ -75,6 +75,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661147483779" />
+    <option name="lastTrimTime" value="1661926540332" />
   </component>
 </application>
