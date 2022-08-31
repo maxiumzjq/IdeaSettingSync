@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="JWT strings must contain exactly 2 period characters. Found: 0" />
       <item value="record" />
       <item value="ord e" />
       <item value="rember" />
@@ -54,12 +55,11 @@
       <item value="le And Org Name List By User Id(" />
       <item value="Doc Write Request" />
       <item value="Adds a list of requests to be executed. Either index or delete requests." />
-      <item value="occur time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="459" />
+        <entry key="ENGLISH" value="460" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
