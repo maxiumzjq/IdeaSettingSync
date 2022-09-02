@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="insert Data" />
       <item value="标识" />
       <item value="JWT strings must contain exactly 2 period characters. Found: 0" />
       <item value="record" />
@@ -54,12 +55,11 @@
       <item value="The last packet successfully received from the server was 38 milliseconds ago. The last packet sent successfully to the server was 52 milliseconds ago." />
       <item value="And Org Name List By User Id(" />
       <item value="le And Org Name List By User Id(" />
-      <item value="Doc Write Request" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="460" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
