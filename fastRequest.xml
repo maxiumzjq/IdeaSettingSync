@@ -114,7 +114,7 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8080" />
+    <option name="domain" value="http://localhost:7481" />
     <option name="enableEnv" value="localhost" />
     <option name="enableProject" value="lo" />
     <option name="envList">
@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2MTk1NzgzMiwiaWF0IjoxNjYxOTI5MDMyLCJqdGkiOiJsZ2RmYzRlYmUxZDk2ZDQ3YzNhNjA0YjAxZmI2YTUxNCJ9.eiLIoScZ5LPJGfjKzVB7UH1W_xcIqg4Yq16vC4UWzzDQqJfIHiIhP1_wn1FcLPveK5E3M6IFG8j-IXYjmZO9fw" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2MjM5MzkzNCwiaWF0IjoxNjYyMzY1MTM0LCJqdGkiOiJsZ2ZjZGVhOGYzMjU0OTRlMTI4NmZhZGVhMjUzM2RhYiJ9.wcLE-N57-huPeyb2ZZeNLMz7AgUlL5ATIj4P1W4j4vwWMm6e6prI0fIp8uE1Wctiv49mr5KeNUawrpTotYsHCw" />
                   </map>
                 </value>
               </entry>
@@ -185,13 +185,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.example.demo.controllers.YsxController" />
-        <option name="method" value="ysx" />
+        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
+        <option name="method" value="searchAttach1" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
-        <option name="module" value="demo" />
-        <option name="originUrl" value="ysx_inter_test/proWoProcess/queryMajorOrder" />
-        <option name="url" value="/ysx_inter_test/proWoProcess/queryMajorOrder" />
+        <option name="module" value="oa-admin" />
+        <option name="originUrl" value="elastic/attach1" />
+        <option name="url" value="/elastic/attach1" />
       </ParamGroup>
     </option>
     <option name="projectList">
