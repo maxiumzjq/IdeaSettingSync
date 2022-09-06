@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Oa File Exchange Server Mapper" />
+      <item value="id" />
+      <item value="serve External Send Doc" />
       <item value="get Gd Gov Pull Doc List" />
       <item value="pull Doc From Gd Gov" />
       <item value="query Major Order" />
@@ -52,14 +55,11 @@
       <item value="t Redis" />
       <item value="Get all elements of set at {@code key}." />
       <item value="members" />
-      <item value="multi Get(" />
-      <item value="java: JPS incremental annotation processing is disabled. Compilation results on partial recompilation may be inaccurate. Use build process &quot;jps.track.ap.dependencies&quot; VM flag to enabledisable incremental annotation processing environment." />
-      <item value="get Receiver Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="465" />
-        <entry key="ENGLISH" value="466" />
+        <entry key="CHINESE" value="468" />
+        <entry key="ENGLISH" value="469" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661926540332" />
+    <option name="lastTrimTime" value="1662448999468" />
   </component>
 </application>
