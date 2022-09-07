@@ -153,7 +153,6 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2MjU0NDkxNywiaWF0IjoxNjYyNTE2MTE3LCJqdGkiOiJsZ2IxMzAzZjU3NzcxODQ5YTA5YzEzZWU5NzQzMGYyYSJ9.aW0j9zkMKZnJMSVsIIKTqG9mdrIc8huR6AOPEngKApifPnSErqjYI-F4Q2mJ6eYd8XmPrg_LbM6CG-hnnZ891Q" />
                   </map>
                 </value>
               </entry>
@@ -185,22 +184,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.ExchangeReceiveFileController" />
-        <option name="method" value="listPage" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/exChangeReceiveFile/page" />
-        <option name="requestParamMap">
+        <option name="bodyParamMap">
           <map>
-            <entry key="searchUtil">
+            <entry key="requestParam">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="url" value="/exChangeReceiveFile/page" />
+        <option name="className" value="com.ot.oa.admin.controller.gzw.GzwController" />
+        <option name="method" value="contentList" />
+        <option name="methodDescription" value="获取通知公告内容信息分页数据" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="oa-admin" />
+        <option name="originUrl" value="/services/gzw/contentList" />
+        <option name="url" value="/services/gzw/contentList" />
       </ParamGroup>
     </option>
     <option name="projectList">
