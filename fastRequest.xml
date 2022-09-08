@@ -153,6 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2MjY0MTg2OCwiaWF0IjoxNjYyNjEzMDY4LCJqdGkiOiJsZzE1MmM4NmQ4NTgyMzQ3ZGVhOGZhNTBiNDE0ZTBlYSJ9.f4SVQAt1VA6Zdgg0ov_Q30qH-eyNoGy9hnH4cjzWGpFzbjH_PAV81JWYYxV6_ygfT9ik3p2QlNf5hlzZoBtr_Q" />
                   </map>
                 </value>
               </entry>
@@ -184,22 +185,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
-          <map>
-            <entry key="requestParam">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="className" value="com.ot.oa.admin.controller.gzw.GzwController" />
-        <option name="method" value="contentList" />
-        <option name="methodDescription" value="获取通知公告内容信息分页数据" />
+        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
+        <option name="method" value="searchAttach1" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/services/gzw/contentList" />
-        <option name="url" value="/services/gzw/contentList" />
+        <option name="originUrl" value="elastic/attach1" />
+        <option name="url" value="/elastic/attach1" />
       </ParamGroup>
     </option>
     <option name="projectList">
