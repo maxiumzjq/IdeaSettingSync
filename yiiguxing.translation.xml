@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="handler Name" />
+      <item value="act Name" />
+      <item value="receiver Name" />
+      <item value="eiver Name;" />
+      <item value="audit Order" />
+      <item value="Complete" />
       <item value="pull Doc Attach" />
       <item value="get Attach Id" />
       <item value="Oa File Exchange Server Mapper" />
@@ -49,17 +55,11 @@
       <item value="Increment {@code value} of a hash {@code hashKey} by the given {@code delta}. @param key must not be {@literal null}. @param hashKey must not be {@literal null}. @param delta @return {@literal null} when used in pipeline transaction." />
       <item value="ues)" />
       <item value="add Ops For Set" />
-      <item value="s For Set" />
-      <item value="add Redis For Set" />
-      <item value="ops For Set" />
-      <item value="ps For Set(" />
-      <item value="add Set Redis" />
-      <item value="t Redis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="470" />
-        <entry key="ENGLISH" value="471" />
+        <entry key="CHINESE" value="477" />
+        <entry key="ENGLISH" value="478" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
