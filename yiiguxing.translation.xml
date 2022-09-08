@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Tran Time" />
       <item value="get Handler User Name" />
       <item value="ser Name(" />
       <item value="ndler Name;" />
@@ -54,12 +55,11 @@
       <item value="get User Role Names" />
       <item value="type Get By Module" />
       <item value="get Search" />
-      <item value="get Role And Org Name List By User Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="488" />
+        <entry key="CHINESE" value="488" />
+        <entry key="ENGLISH" value="489" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
