@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This application has no explicit mapping for error, so you are seeing this as a fallback" />
       <item value="get File Type" />
       <item value="get File Path" />
       <item value="upload" />
@@ -54,7 +55,6 @@
       <item value="Set the value of a hash hashKey." />
       <item value="Set the value of a hash hashKey only if hashKey does not exist." />
       <item value="SessionDestroyedEvent" />
-      <item value="Unable to publish SessionDestroyedEvent" />
     </histories>
     <option name="languageScores">
       <map>
