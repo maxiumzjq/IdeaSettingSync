@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="attach Dto" />
+      <item value="input To Output" />
+      <item value="nput To Output(" />
+      <item value="pull Doc Attach" />
       <item value="get Task Comments" />
       <item value="MINUTES" />
       <item value="save Comments" />
@@ -26,7 +30,6 @@
       <item value="eiver Name;" />
       <item value="audit Order" />
       <item value="Complete" />
-      <item value="pull Doc Attach" />
       <item value="get Attach Id" />
       <item value="Oa File Exchange Server Mapper" />
       <item value="id" />
@@ -52,14 +55,11 @@
       <item value="list By Bu Type And Bu Id" />
       <item value="push Seal Flow" />
       <item value="list Cultural" />
-      <item value="type List" />
-      <item value="cultural" />
-      <item value="list Party Building" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="494" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="CHINESE" value="498" />
+        <entry key="ENGLISH" value="499" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
