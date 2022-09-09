@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get File Type" />
+      <item value="get File Path" />
       <item value="upload" />
       <item value="dowmload Attach" />
       <item value="attach Dto" />
@@ -53,13 +55,11 @@
       <item value="Set the value of a hash hashKey only if hashKey does not exist." />
       <item value="SessionDestroyedEvent" />
       <item value="Unable to publish SessionDestroyedEvent" />
-      <item value="set Cover Pic Url" />
-      <item value="list By Bu Type And Bu Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="CHINESE" value="502" />
+        <entry key="ENGLISH" value="503" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
