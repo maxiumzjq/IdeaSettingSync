@@ -199,8 +199,8 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="demo" />
-        <option name="originUrl" value="/ysx_inter_test/12345_inter/proWoProcess/queryMajorOrder" />
-        <option name="url" value="/ysx_inter_test/12345_inter/proWoProcess/queryMajorOrder" />
+        <option name="originUrl" value="" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
