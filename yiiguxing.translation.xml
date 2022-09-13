@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="evaluate" />
+      <item value="prefix Length" />
+      <item value="Creates a file output stream to write to the file with the specified name. A new &lt;code&gt;FileDescriptor&lt;code&gt; object is created to represent this file connection." />
       <item value="This application has no explicit mapping for error, so you are seeing this as a fallback" />
       <item value="get File Type" />
       <item value="get File Path" />
@@ -52,14 +55,11 @@
       <item value="rember elastic" />
       <item value="Determine if given hash hashKey exists." />
       <item value="Increment value of a hash hashKey by the given delta." />
-      <item value="Set the value of a hash hashKey." />
-      <item value="Set the value of a hash hashKey only if hashKey does not exist." />
-      <item value="SessionDestroyedEvent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="502" />
-        <entry key="ENGLISH" value="503" />
+        <entry key="CHINESE" value="505" />
+        <entry key="ENGLISH" value="506" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662448999468" />
+    <option name="lastTrimTime" value="1663036909067" />
   </component>
 </application>
