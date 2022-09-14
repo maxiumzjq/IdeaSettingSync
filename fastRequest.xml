@@ -114,9 +114,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8080" />
+    <option name="domain" value="http://localhost:7481" />
     <option name="enableEnv" value="localhost" />
-    <option name="enableProject" value="lo" />
+    <option name="enableProject" value="oa" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2MzA4NTg2MywiaWF0IjoxNjYzMDU3MDYzLCJqdGkiOiJsZzIyZTc1MjQxNDcxOTQ5YjliNDU3NTUwMGU3NjY0YiJ9.lDWdoY8ar2UTJYTxX7JA128or0Gk6nTxo83ci7B_sBZDifJ42q9AOxF5bcTuH7bbIXWYxAVnkTPh1Sz1o-jwZQ" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzNjgyZjg5NjAyYjU0NWQ3OTA5NDEyNTRlYzhmZjA0MyIsImV4cCI6MTY2MzE3MTYwOSwiaWF0IjoxNjYzMTQyODA5LCJqdGkiOiJsZ2NiZGQyNWU5YzgwYjRlNGY5MmZlNGZjYzU5YzkwMiJ9.FMjGxvyaVo1GCv-p30gxmulP21TdFnScgBNDR9d_ipQJ65EiPme8t89MjwI3qbnIglnZdh0ydcNcWBour3xTGQ" />
                   </map>
                 </value>
               </entry>
@@ -174,7 +174,10 @@
             <map>
               <entry key="localhost">
                 <value>
-                  <map />
+                  <map>
+                    <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzNjgyZjg5NjAyYjU0NWQ3OTA5NDEyNTRlYzhmZjA0MyIsImV4cCI6MTY2MzE3MTYwOSwiaWF0IjoxNjYzMTQyODA5LCJqdGkiOiJsZ2NiZGQyNWU5YzgwYjRlNGY5MmZlNGZjYzU5YzkwMiJ9.FMjGxvyaVo1GCv-p30gxmulP21TdFnScgBNDR9d_ipQJ65EiPme8t89MjwI3qbnIglnZdh0ydcNcWBour3xTGQ" />
+                  </map>
                 </value>
               </entry>
             </map>
@@ -185,22 +188,27 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
+        <option name="className" value="com.ot.oa.admin.controller.MailController" />
+        <option name="method" value="insertSignature" />
+        <option name="methodDescription" value="邮箱设置-添加个性签名" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="oa-admin" />
+        <option name="originUrl" value="/mail/signature" />
+        <option name="requestParamMap">
           <map>
-            <entry key="ysxDTO">
+            <entry key="signContent">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="signName">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.example.demo.controllers.YsxController" />
-        <option name="method" value="ysx" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="demo" />
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="url" value="/mail/signature" />
       </ParamGroup>
     </option>
     <option name="projectList">
