@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="server Sign" />
       <item value="create New File" />
       <item value="get Parent File" />
       <item value="Create a new empty file with the given pathname. Return &lt;code&gt;true&lt;code&gt; if the file was created and &lt;code&gt;false&lt;code&gt; if a file or directory with the given pathname already exists. Throw an IOException if an IO error occurs." />
@@ -54,12 +55,11 @@
       <item value="Oa File Exchange Server Mapper" />
       <item value="id" />
       <item value="serve External Send Doc" />
-      <item value="get Gd Gov Pull Doc List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="520" />
-        <entry key="ENGLISH" value="521" />
+        <entry key="CHINESE" value="521" />
+        <entry key="ENGLISH" value="522" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
