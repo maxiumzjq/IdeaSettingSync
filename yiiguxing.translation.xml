@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="create New File" />
+      <item value="get Parent File" />
       <item value="Create a new empty file with the given pathname. Return &lt;code&gt;true&lt;code&gt; if the file was created and &lt;code&gt;false&lt;code&gt; if a file or directory with the given pathname already exists. Throw an IOException if an IO error occurs." />
       <item value="create File Exclusively" />
       <item value="Tests whether the application can execute the file denoted by this abstract pathname. On some platforms it may be possible to start the Java virtual machine with special privileges that allow it to execute files that are not marked executable. Consequently this method may return true even though the file does not have execute permissions." />
@@ -53,13 +55,11 @@
       <item value="id" />
       <item value="serve External Send Doc" />
       <item value="get Gd Gov Pull Doc List" />
-      <item value="pull Doc From Gd Gov" />
-      <item value="query Major Order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="CHINESE" value="520" />
+        <entry key="ENGLISH" value="521" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
