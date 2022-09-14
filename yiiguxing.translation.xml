@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Tests whether the application can execute the file denoted by this abstract pathname. On some platforms it may be possible to start the Java virtual machine with special privileges that allow it to execute files that are not marked executable. Consequently this method may return true even though the file does not have execute permissions." />
+      <item value="can Execute" />
       <item value="The length of this abstract pathname's prefix, or zero if it has no prefix." />
       <item value="Returns the abstract pathname of this abstract pathname's parent, or null if this pathname does not name a parent directory." />
       <item value="prefix Length" />
@@ -53,13 +55,11 @@
       <item value="query Major Order" />
       <item value="get Ysx Pull Doc List" />
       <item value="insert Data" />
-      <item value="标识" />
-      <item value="JWT strings must contain exactly 2 period characters. Found: 0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
-        <entry key="ENGLISH" value="514" />
+        <entry key="CHINESE" value="515" />
+        <entry key="ENGLISH" value="516" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
