@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="idcard" />
       <item value="export To File" />
       <item value="reject Rec File" />
       <item value="get Download Url" />
@@ -54,7 +55,6 @@
       <item value="receiver" />
       <item value="receiver Name" />
       <item value="ver Name;" />
-      <item value="handler Name" />
     </histories>
     <option name="languageScores">
       <map>
