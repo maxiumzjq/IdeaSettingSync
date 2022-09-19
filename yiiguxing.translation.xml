@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="file Url" />
+      <item value="get Yozo Conver Pdf Conver Type" />
+      <item value="convert" />
+      <item value="HTTP FILE URL" />
+      <item value="yozo Preview Url" />
+      <item value="view Url+" />
       <item value="idcard" />
       <item value="export To File" />
       <item value="reject Rec File" />
@@ -49,17 +55,11 @@
       <item value="ser Name(" />
       <item value="ndler Name;" />
       <item value="handler Dept Name" />
-      <item value="top Name" />
-      <item value="send Time" />
-      <item value="end Time;" />
-      <item value="receiver" />
-      <item value="receiver Name" />
-      <item value="ver Name;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="530" />
-        <entry key="ENGLISH" value="531" />
+        <entry key="CHINESE" value="535" />
+        <entry key="ENGLISH" value="536" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663036909067" />
+    <option name="lastTrimTime" value="1663550455878" />
   </component>
 </application>
