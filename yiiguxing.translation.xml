@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="process Id" />
       <item value="76 a 11 c 4 bf 7 a 54 a 5582 da 1 d 6594 eca 362" />
       <item value="file Url" />
       <item value="get Yozo Conver Pdf Conver Type" />
@@ -54,12 +55,11 @@
       <item value="get Tran Time" />
       <item value="get Handler User Name" />
       <item value="ser Name(" />
-      <item value="ndler Name;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="536" />
+        <entry key="ENGLISH" value="537" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
