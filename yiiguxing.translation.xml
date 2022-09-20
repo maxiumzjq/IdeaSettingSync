@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Conver" />
       <item value="restord Word" />
       <item value="ysx Conver Pdf Util" />
       <item value="ysx Conver Pdf" />
@@ -54,12 +55,11 @@
       <item value="input To Output" />
       <item value="nput To Output(" />
       <item value="pull Doc Attach" />
-      <item value="get Task Comments" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="544" />
-        <entry key="ENGLISH" value="545" />
+        <entry key="CHINESE" value="545" />
+        <entry key="ENGLISH" value="546" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
