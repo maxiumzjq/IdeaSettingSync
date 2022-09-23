@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="party Build" />
       <item value="Cultural Construction" />
       <item value="文化建设" />
       <item value="list Cultural" />
@@ -54,7 +55,6 @@
       <item value="Creates a file output stream to write to the file with the specified name. A new &lt;code&gt;FileDescriptor&lt;code&gt; object is created to represent this file connection." />
       <item value="This application has no explicit mapping for error, so you are seeing this as a fallback" />
       <item value="get File Type" />
-      <item value="get File Path" />
     </histories>
     <option name="languageScores">
       <map>
