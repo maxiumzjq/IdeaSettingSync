@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="app File Download Config" />
+      <item value="get Download Url" />
       <item value="party Build" />
       <item value="Cultural Construction" />
       <item value="文化建设" />
@@ -31,7 +33,6 @@
       <item value="view Url+" />
       <item value="idcard" />
       <item value="reject Rec File" />
-      <item value="get Download Url" />
       <item value="conver Pdf" />
       <item value="ver Pdf(" />
       <item value="region Matches" />
@@ -54,12 +55,11 @@
       <item value="evaluate" />
       <item value="Creates a file output stream to write to the file with the specified name. A new &lt;code&gt;FileDescriptor&lt;code&gt; object is created to represent this file connection." />
       <item value="This application has no explicit mapping for error, so you are seeing this as a fallback" />
-      <item value="get File Type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="552" />
-        <entry key="ENGLISH" value="552" />
+        <entry key="ENGLISH" value="553" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
