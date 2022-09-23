@@ -5,6 +5,18 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="spec" />
+      <item value="the {@code String} to parse as a URL." />
+      <item value="Creates a {@code URL} object from the {@code String} representation. &lt;p&gt; This constructor is equivalent to a call to the two-argument constructor with a {@code null} first argument." />
+      <item value="网址" />
+      <item value="URL" />
+      <item value="get Input Stream From Url" />
+      <item value="get Input Stream To Url" />
+      <item value="out Input Steam" />
+      <item value="t Input Steam" />
+      <item value="get Input Steam" />
+      <item value="Input Steam" />
+      <item value="get Out Input Steam" />
       <item value="app File Download Config" />
       <item value="get Download Url" />
       <item value="party Build" />
@@ -43,23 +55,11 @@
       <item value="get Parent File" />
       <item value="Create a new empty file with the given pathname. Return &lt;code&gt;true&lt;code&gt; if the file was created and &lt;code&gt;false&lt;code&gt; if a file or directory with the given pathname already exists. Throw an IOException if an IO error occurs." />
       <item value="create File Exclusively" />
-      <item value="Tests whether the application can execute the file denoted by this abstract pathname. On some platforms it may be possible to start the Java virtual machine with special privileges that allow it to execute files that are not marked executable. Consequently this method may return true even though the file does not have execute permissions." />
-      <item value="can Execute" />
-      <item value="The length of this abstract pathname's prefix, or zero if it has no prefix." />
-      <item value="Returns the abstract pathname of this abstract pathname's parent, or null if this pathname does not name a parent directory." />
-      <item value="prefix Length" />
-      <item value="the system-dependent filename" />
-      <item value="Creates a file output stream to write to the file with the specified name. A new FileDescriptor object is created to represent this file connection. First, if there is a security manager, its checkWrite method is called with name as its argument. If the file exists but is a directory rather than a regular file, does not exist but cannot be created, or cannot be opened for any other reason then a FileNotFoundException is thrown." />
-      <item value="File Output Stream" />
-      <item value="dir Path" />
-      <item value="evaluate" />
-      <item value="Creates a file output stream to write to the file with the specified name. A new &lt;code&gt;FileDescriptor&lt;code&gt; object is created to represent this file connection." />
-      <item value="This application has no explicit mapping for error, so you are seeing this as a fallback" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="552" />
-        <entry key="ENGLISH" value="553" />
+        <entry key="CHINESE" value="563" />
+        <entry key="ENGLISH" value="564" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
