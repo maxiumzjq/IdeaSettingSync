@@ -176,7 +176,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJiMjY2YjFkNTJkNTA0Zjk5YWY5MGY4OTUzNzQ5ZWExNyIsImV4cCI6MTY2NDI2Njg4NywiaWF0IjoxNjY0MjY1MDg3LCJqdGkiOiJsZzI5NGY2MmM4N2MwMDQyNDFhZTkzOTRmZjA5ZTBmMSJ9.3GY9As1rMuwVvEj7W9ZVvPM4wn5vLla_VQ7TVN6t-4UuRdP6yyGxa3ojwT89SIGqalaImjqiKYVVvUFdoUGMpQ" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJiMjY2YjFkNTJkNTA0Zjk5YWY5MGY4OTUzNzQ5ZWExNyIsImV4cCI6MTY2NDI3MDI5MiwiaWF0IjoxNjY0MjY4NDkyLCJqdGkiOiJsZzdiZWU1MDc1NzNjMTQ3ZGY4MmIwYTc5YmNmMzE3YiJ9.U0kZaVuSMpJxlYjkc1-MdG9Nsocq4s5M7bp3TJm6HLCBzZzJUO2qWhCVrSQBYX_DCjPlaSsiSM6glq07JNWnaQ" />
                   </map>
                 </value>
               </entry>
@@ -196,22 +196,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
+        <option name="className" value="com.ot.fes.admin.controller.ConfigInceptWarningController" />
+        <option name="method" value="delete" />
+        <option name="methodDescription" value="删除收文提醒" />
+        <option name="methodType" value="DELETE" />
+        <option name="module" value="fes-admin" />
+        <option name="originUrl" value="/configInceptWarning/{id}" />
+        <option name="pathParamMap">
           <map>
-            <entry key="configInceptWarningDto">
+            <entry key="id">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.ot.fes.admin.controller.ConfigInceptWarningController" />
-        <option name="method" value="insert" />
-        <option name="methodDescription" value="新增收文提醒" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="fes-admin" />
-        <option name="originUrl" value="/configInceptWarning/" />
-        <option name="url" value="/configInceptWarning/" />
+        <option name="url" value="/configInceptWarning/416c9ab10de6461585e3a964a0571a5d" />
       </ParamGroup>
     </option>
     <option name="projectList">
