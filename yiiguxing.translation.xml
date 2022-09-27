@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Config Incept Warning" />
+      <item value="Incept" />
+      <item value="Inceptwarning" />
       <item value="spec" />
       <item value="the {@code String} to parse as a URL." />
       <item value="Creates a {@code URL} object from the {@code String} representation. &lt;p&gt; This constructor is equivalent to a call to the two-argument constructor with a {@code null} first argument." />
@@ -52,14 +55,11 @@
       <item value="equals Ignore Case" />
       <item value="server Sign" />
       <item value="create New File" />
-      <item value="get Parent File" />
-      <item value="Create a new empty file with the given pathname. Return &lt;code&gt;true&lt;code&gt; if the file was created and &lt;code&gt;false&lt;code&gt; if a file or directory with the given pathname already exists. Throw an IOException if an IO error occurs." />
-      <item value="create File Exclusively" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="563" />
-        <entry key="ENGLISH" value="564" />
+        <entry key="CHINESE" value="565" />
+        <entry key="ENGLISH" value="566" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -70,6 +70,7 @@
         <entry key="MALAGASY" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="TURKISH" value="2" />
+        <entry key="UZBEK" value="1" />
         <entry key="GREEK" value="2" />
         <entry key="IGBO" value="1" />
         <entry key="ITALIAN" value="1" />
@@ -77,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663550455878" />
+    <option name="lastTrimTime" value="1664248686368" />
   </component>
 </application>
