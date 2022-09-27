@@ -26,7 +26,7 @@
             <list>
               <HostGroup>
                 <option name="env" value="dev" />
-                <option name="url" value="" />
+                <option name="url" value="http://localhost:7520" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="remote" />
@@ -114,8 +114,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:8080" />
-    <option name="enableEnv" value="localhost" />
+    <option name="domain" value="http://localhost:7520" />
+    <option name="enableEnv" value="dev" />
     <option name="enableProject" value="lo" />
     <option name="envList">
       <list>
@@ -152,7 +152,7 @@
               <entry key="localhost">
                 <value>
                   <map>
-                    <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
+                    <entry key="Accept-Sign-Ignore" value=";h" />
                     <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJiN2NmYzQzMzAyNTc0YTk4Yjg1MzI5YjcwMWE5ZjQ5OCIsImV4cCI6MTY2NDIwNzA5MywiaWF0IjoxNjY0MTc4MjkzLCJqdGkiOiJsZzdhODhjNGFlMDQ3NTQ3Njg5MTRiNTQzOTBiY2JjMSJ9.HfyibBZGC29LfRXPYUrn25vgMpEWcYyNgGk-PY1Cm_jZiGBLH8cdFb1wv1bBmmvKCHUwRXA4bpfE-EuMAoCOww" />
                   </map>
                 </value>
@@ -172,6 +172,14 @@
         <HeaderGroup>
           <option name="envMap">
             <map>
+              <entry key="dev">
+                <value>
+                  <map>
+                    <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJiMjY2YjFkNTJkNTA0Zjk5YWY5MGY4OTUzNzQ5ZWExNyIsImV4cCI6MTY2NDI2Njg4NywiaWF0IjoxNjY0MjY1MDg3LCJqdGkiOiJsZzI5NGY2MmM4N2MwMDQyNDFhZTkzOTRmZjA5ZTBmMSJ9.3GY9As1rMuwVvEj7W9ZVvPM4wn5vLla_VQ7TVN6t-4UuRdP6yyGxa3ojwT89SIGqalaImjqiKYVVvUFdoUGMpQ" />
+                  </map>
+                </value>
+              </entry>
               <entry key="localhost">
                 <value>
                   <map>
@@ -188,27 +196,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.InfoController" />
-        <option name="method" value="listNationalPartyBuilding" />
-        <option name="methodDescription" value="查询国企党建数据" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="oa-admin" />
-        <option name="originUrl" value="" />
-        <option name="requestParamMap">
+        <option name="bodyParamMap">
           <map>
-            <entry key="cover">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="searchUtil">
+            <entry key="configInceptWarningDto">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="url" value="" />
+        <option name="className" value="com.ot.fes.admin.controller.ConfigInceptWarningController" />
+        <option name="method" value="insert" />
+        <option name="methodDescription" value="新增收文提醒" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="fes-admin" />
+        <option name="originUrl" value="/configInceptWarning/" />
+        <option name="url" value="/configInceptWarning/" />
       </ParamGroup>
     </option>
     <option name="projectList">
