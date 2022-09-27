@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="check Org Unit" />
       <item value="Config Incept Warning" />
       <item value="Incept" />
       <item value="Inceptwarning" />
@@ -54,12 +55,11 @@
       <item value="gion Matches(" />
       <item value="equals Ignore Case" />
       <item value="server Sign" />
-      <item value="create New File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="565" />
-        <entry key="ENGLISH" value="566" />
+        <entry key="CHINESE" value="566" />
+        <entry key="ENGLISH" value="567" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
