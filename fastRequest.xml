@@ -206,12 +206,12 @@
           </map>
         </option>
         <option name="className" value="com.ot.fes.admin.controller.ConfigInceptWarningController" />
-        <option name="method" value="insert" />
-        <option name="methodDescription" value="新增收文提醒" />
+        <option name="method" value="update" />
+        <option name="methodDescription" value="编辑收文提醒" />
         <option name="methodType" value="POST" />
         <option name="module" value="fes-admin" />
-        <option name="originUrl" value="/configInceptWarning/" />
-        <option name="url" value="/configInceptWarning/" />
+        <option name="originUrl" value="/configInceptWarning/update" />
+        <option name="url" value="/configInceptWarning/update" />
       </ParamGroup>
     </option>
     <option name="projectList">
