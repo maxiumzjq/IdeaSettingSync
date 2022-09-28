@@ -114,8 +114,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:7520" />
-    <option name="enableEnv" value="dev" />
+    <option name="domain" value="http://localhost:8080" />
+    <option name="enableEnv" value="localhost" />
     <option name="enableProject" value="lo" />
     <option name="envList">
       <list>
@@ -152,7 +152,7 @@
               <entry key="localhost">
                 <value>
                   <map>
-                    <entry key="Accept-Sign-Ignore" value=";h" />
+                    <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
                     <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJiN2NmYzQzMzAyNTc0YTk4Yjg1MzI5YjcwMWE5ZjQ5OCIsImV4cCI6MTY2NDIwNzA5MywiaWF0IjoxNjY0MTc4MjkzLCJqdGkiOiJsZzdhODhjNGFlMDQ3NTQ3Njg5MTRiNTQzOTBiY2JjMSJ9.HfyibBZGC29LfRXPYUrn25vgMpEWcYyNgGk-PY1Cm_jZiGBLH8cdFb1wv1bBmmvKCHUwRXA4bpfE-EuMAoCOww" />
                   </map>
                 </value>
@@ -201,7 +201,7 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="fes-admin" />
-        <option name="originUrl" value="/configInceptWarning/sendMessage" />
+        <option name="originUrl" value="" />
         <option name="requestParamMap">
           <map>
             <entry key="condition">
@@ -211,7 +211,7 @@
             </entry>
           </map>
         </option>
-        <option name="url" value="/configInceptWarning/sendMessage" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
