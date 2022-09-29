@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="收文提醒" />
       <item value="Returns the current time in milliseconds. Note that while the unit of time of the return value is a millisecond, the granularity of the value depends on the underlying operating system and may be larger. For example, many operating systems measure time in units of tens of milliseconds." />
       <item value="check Org Unit" />
       <item value="Config Incept Warning" />
@@ -54,7 +55,6 @@
       <item value="ver Pdf(" />
       <item value="region Matches" />
       <item value="gion Matches(" />
-      <item value="equals Ignore Case" />
     </histories>
     <option name="languageScores">
       <map>
