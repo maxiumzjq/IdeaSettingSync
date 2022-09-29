@@ -114,9 +114,9 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:7520" />
+    <option name="domain" value="http://localhost:7480" />
     <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="lo" />
+    <option name="enableProject" value="oa" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -210,8 +210,8 @@
         <option name="methodDescription" value="编辑收文提醒" />
         <option name="methodType" value="POST" />
         <option name="module" value="fes-admin" />
-        <option name="originUrl" value="/configInceptWarning/update" />
-        <option name="url" value="/configInceptWarning/update" />
+        <option name="originUrl" value="" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
