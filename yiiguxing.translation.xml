@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="send Msg" />
       <item value="The dependencies of some of the beans in the application context form a cycle:" />
       <item value="timerTaskRunner (field private com.ot.oa.service.admin.ElasticsearchService com.ot.oa.admin.common.runner.elastic.TimerTaskRunner.elasticsearchService)" />
       <item value="收文提醒" />
@@ -54,7 +55,6 @@
       <item value="idcard" />
       <item value="reject Rec File" />
       <item value="conver Pdf" />
-      <item value="ver Pdf(" />
     </histories>
     <option name="languageScores">
       <map>
