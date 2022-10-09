@@ -196,22 +196,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
+        <option name="className" value="com.ot.oa.admin.controller.FullOfficeHolidayFlowController" />
+        <option name="method" value="getById" />
+        <option name="methodDescription" value="通过 id 获取请假表单详情" />
+        <option name="methodType" value="GET" />
+        <option name="module" value="oa-admin" />
+        <option name="originUrl" value="/FullOfficeHolidayFlow/{id}" />
+        <option name="pathParamMap">
           <map>
-            <entry key="configInceptWarningDto">
+            <entry key="id">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.ot.fes.admin.controller.ConfigInceptWarningController" />
-        <option name="method" value="update" />
-        <option name="methodDescription" value="编辑收文提醒" />
-        <option name="methodType" value="POST" />
-        <option name="module" value="fes-admin" />
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="url" value="/FullOfficeHolidayFlow/id_toekh" />
       </ParamGroup>
     </option>
     <option name="projectList">
