@@ -201,7 +201,7 @@
         <option name="methodDescription" value="通过 id 获取请假表单详情" />
         <option name="methodType" value="GET" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/FullOfficeHolidayFlow/{id}" />
+        <option name="originUrl" value="" />
         <option name="pathParamMap">
           <map>
             <entry key="id">
@@ -211,7 +211,7 @@
             </entry>
           </map>
         </option>
-        <option name="url" value="/FullOfficeHolidayFlow/e90d11a00d434265905a85c26d539ff1" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
