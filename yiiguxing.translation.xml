@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="business Travel" />
       <item value="add Ops For Set" />
       <item value="send Msg" />
       <item value="The dependencies of some of the beans in the application context form a cycle:" />
@@ -54,12 +55,11 @@
       <item value="yozo Preview Url" />
       <item value="view Url+" />
       <item value="idcard" />
-      <item value="reject Rec File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="568" />
-        <entry key="ENGLISH" value="569" />
+        <entry key="CHINESE" value="569" />
+        <entry key="ENGLISH" value="570" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664248686368" />
+    <option name="lastTrimTime" value="1665475179382" />
   </component>
 </application>
