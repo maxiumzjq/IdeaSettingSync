@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="eturns a string representation of this BigDecimal without an exponent field. For values with a positive scale, the number of digits to the right of the decimal point is used to indicate scale. For values with a zero or negative scale, the resulting string is generated as if the value were converted to a numerically equal value with zero scale and as if all the trailing zeros of the zero scale value were present in the result. The entire string is prefixed by a minus sign character '-' ('\u002D') if the unscaled value is less than zero. No sign character is prefixed if the unscaled value is zero or positive. Note that if the result of this method is passed to the string constructor, only the numerical value of this BigDecimal will necessarily be recovered; the representation of the new BigDecimal may have a different scale. In particular, if this BigDecimal has a negative scale, the string resulting from this method will have a scale of zero when processed by the string constructor. (This method behaves analogously to the toString method in 1.4 and earlier releases.) Returns: a string representation of this BigDecimal without an exponent field." />
       <item value="The last packet successfully received from the server was 29,984 milliseconds ago. The last packet sent successfully to the server was 29,987 milliseconds ago." />
       <item value="business Travel" />
       <item value="add Ops For Set" />
@@ -54,12 +55,11 @@
       <item value="convert" />
       <item value="HTTP FILE URL" />
       <item value="yozo Preview Url" />
-      <item value="view Url+" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="570" />
-        <entry key="ENGLISH" value="571" />
+        <entry key="CHINESE" value="571" />
+        <entry key="ENGLISH" value="572" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
