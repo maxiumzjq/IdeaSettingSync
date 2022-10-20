@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzN2ZjY2VlZjBkMjM0NTIxOWJlMDdkMTlmZjM1NTc2ZSIsImV4cCI6MTY2NjA4NzI4OSwiaWF0IjoxNjY2MDU4NDg5LCJqdGkiOiJsZ2RlYTNiZWJlMWFiOTRkYmE5OGU4NGJjMzQ3NWE3OSJ9.F7huGlPXGkE95gqAoy5PoG96Xnpsr_SmtSOIv7CUJgwOEZvqprN4YSDsdlP3CSOR9VZH0iI6fo0VaE9u507Knw" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2NjI2NTYyNSwiaWF0IjoxNjY2MjM2ODI1LCJqdGkiOiJsZzNlOWM1YjViYWZlNDRmMjQ4YTg5MzlmZjQwYjY3MSJ9.QACS_KYZ7NKmwt1kwuRJ_tvr2tJzy0e-p2oTm2plB2iQezMwCA1UvsmM8d-Eq99Dy5eWbn0IVl7H_b0X8vlPNQ" />
                   </map>
                 </value>
               </entry>
@@ -197,12 +197,36 @@
     <option name="paramGroup">
       <ParamGroup>
         <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
-        <option name="method" value="searchAttach1" />
-        <option name="methodDescription" value="" />
+        <option name="method" value="searchAttach" />
+        <option name="methodDescription" value="查询附件" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="elastic/attach1" />
-        <option name="url" value="/elastic/attach1" />
+        <option name="originUrl" value="elastic/attach" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="from">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="searchType">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="searchWord">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="size">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="url" value="/elastic/attach" />
       </ParamGroup>
     </option>
     <option name="projectList">
