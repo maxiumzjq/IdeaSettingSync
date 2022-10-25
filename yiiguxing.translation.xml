@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Cultural Constructio" />
+      <item value="Cultural Construction" />
       <item value="国企党建数据" />
       <item value="equals Ignore Case(" />
       <item value="ls Ignore Case(" />
@@ -42,7 +44,6 @@
       <item value="app File Download Config" />
       <item value="get Download Url" />
       <item value="party Build" />
-      <item value="Cultural Construction" />
       <item value="文化建设" />
       <item value="list Cultural" />
       <item value="get Holiday Num" />
@@ -54,7 +55,6 @@
       <item value="ysx Conver Pdf" />
       <item value="ysx Conver" />
       <item value="转换" />
-      <item value="export To File" />
     </histories>
     <option name="languageScores">
       <map>
