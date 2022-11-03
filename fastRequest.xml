@@ -196,21 +196,21 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.MeetingRoomParticipatorController" />
-        <option name="method" value="listParticipator" />
-        <option name="methodDescription" value="查询会议参会人员信息" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/meetingroomParticipator/" />
-        <option name="requestParamMap">
+        <option name="bodyParamMap">
           <map>
-            <entry key="processId">
+            <entry key="meetingRoomParticipatorDTO">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
+        <option name="className" value="com.ot.oa.admin.controller.MeetingRoomParticipatorController" />
+        <option name="method" value="insertParticipator" />
+        <option name="methodDescription" value="保存会议参会人员" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="oa-admin" />
+        <option name="originUrl" value="/meetingroomParticipator/" />
         <option name="url" value="/meetingroomParticipator/" />
       </ParamGroup>
     </option>
