@@ -198,20 +198,20 @@
       <ParamGroup>
         <option name="bodyParamMap">
           <map>
-            <entry key="sendMailDTO">
+            <entry key="meetingRoomParticipatorDTO">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="className" value="com.ot.oa.admin.controller.MailController" />
-        <option name="method" value="insertMail" />
-        <option name="methodDescription" value="发送邮件" />
+        <option name="className" value="com.ot.oa.admin.controller.MeetingRoomParticipatorController" />
+        <option name="method" value="insertParticipator" />
+        <option name="methodDescription" value="保存会议参会人员" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/mail/" />
-        <option name="url" value="/mail/" />
+        <option name="originUrl" value="/meetingroomParticipator/" />
+        <option name="url" value="/meetingroomParticipator/" />
       </ParamGroup>
     </option>
     <option name="projectList">
