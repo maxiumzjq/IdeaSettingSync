@@ -196,22 +196,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="bodyParamMap">
-          <map>
-            <entry key="meetingRoomParticipatorDTO">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="className" value="com.ot.oa.admin.controller.MeetingRoomParticipatorController" />
-        <option name="method" value="insertParticipator" />
-        <option name="methodDescription" value="保存会议参会人员" />
-        <option name="methodType" value="POST" />
+        <option name="className" value="com.ot.oa.admin.controller.gzw.GzwController" />
+        <option name="method" value="export" />
+        <option name="methodDescription" value="导出" />
+        <option name="methodType" value="GET" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/meetingroomParticipator/" />
-        <option name="url" value="/meetingroomParticipator/" />
+        <option name="originUrl" value="/services/gzw/export" />
+        <option name="url" value="/services/gzw/export" />
       </ParamGroup>
     </option>
     <option name="projectList">
