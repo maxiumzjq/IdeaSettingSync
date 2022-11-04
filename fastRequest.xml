@@ -201,8 +201,8 @@
         <option name="methodDescription" value="导出" />
         <option name="methodType" value="GET" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/services/gzw/export" />
-        <option name="url" value="/services/gzw/export" />
+        <option name="originUrl" value="" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
