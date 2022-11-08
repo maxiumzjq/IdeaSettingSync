@@ -1,76 +1,74 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Participator(" />
-      <item value="Returns true if and only if this string contains the specified sequence of char values." />
-      <item value="contains" />
-      <item value="2022-10-25 14:15:00 | DEBUG | [oa-scheduler-5] | com.ot.oa.admin.dao.ElasticsearchDao.listSeal:137 | &lt;== Total: 0 2022-10-25 14:15:00 | DEBUG | [oa-scheduler-2] | com.ot.oa.admin.dao.ElasticsearchDao.listInner:137 | &lt;== Total: 0 2022-10-25 14:15:00 | DEBUG | [oa-scheduler-4] | com.ot.oa.admin.dao.ElasticsearchDao.listDispatch:137 | &lt;== Total: 0 2022-10-25 14:15:00 | DEBUG | [oa-scheduler-15] | com.ot.oa.admin.dao.ElasticsearchDao.listHoliday:137 | &lt;== Total: 0 2022-10-25 14:15:00 | DEBUG | [oa-scheduler-14] | com.ot.oa.admin.dao.ElasticsearchDao.listReceive:137 | &lt;== Total: 0" />
-      <item value="Cultural Constructio" />
-      <item value="Cultural Construction" />
-      <item value="国企党建数据" />
-      <item value="equals Ignore Case(" />
-      <item value="ls Ignore Case(" />
-      <item value="handle Info Read Range" />
-      <item value="DFLAG)" />
-      <item value="mails" />
-      <item value="delbox" />
-      <item value="draftbox" />
-      <item value="time Value Minutes" />
-      <item value="business Travel" />
-      <item value="eturns a string representation of this BigDecimal without an exponent field. For values with a positive scale, the number of digits to the right of the decimal point is used to indicate scale. For values with a zero or negative scale, the resulting string is generated as if the value were converted to a numerically equal value with zero scale and as if all the trailing zeros of the zero scale value were present in the result. The entire string is prefixed by a minus sign character '-' ('\u002D') if the unscaled value is less than zero. No sign character is prefixed if the unscaled value is zero or positive. Note that if the result of this method is passed to the string constructor, only the numerical value of this BigDecimal will necessarily be recovered; the representation of the new BigDecimal may have a different scale. In particular, if this BigDecimal has a negative scale, the string resulting from this method will have a scale of zero when processed by the string constructor. (This method behaves analogously to the toString method in 1.4 and earlier releases.) Returns: a string representation of this BigDecimal without an exponent field." />
-      <item value="The last packet successfully received from the server was 29,984 milliseconds ago. The last packet sent successfully to the server was 29,987 milliseconds ago." />
-      <item value="add Ops For Set" />
-      <item value="send Msg" />
-      <item value="The dependencies of some of the beans in the application context form a cycle:" />
-      <item value="timerTaskRunner (field private com.ot.oa.service.admin.ElasticsearchService com.ot.oa.admin.common.runner.elastic.TimerTaskRunner.elasticsearchService)" />
-      <item value="收文提醒" />
-      <item value="Returns the current time in milliseconds. Note that while the unit of time of the return value is a millisecond, the granularity of the value depends on the underlying operating system and may be larger. For example, many operating systems measure time in units of tens of milliseconds." />
-      <item value="check Org Unit" />
-      <item value="Config Incept Warning" />
-      <item value="Incept" />
-      <item value="Inceptwarning" />
-      <item value="spec" />
-      <item value="the {@code String} to parse as a URL." />
-      <item value="Creates a {@code URL} object from the {@code String} representation. &lt;p&gt; This constructor is equivalent to a call to the two-argument constructor with a {@code null} first argument." />
-      <item value="网址" />
-      <item value="URL" />
-      <item value="get Input Stream From Url" />
-      <item value="get Input Stream To Url" />
-      <item value="out Input Steam" />
-      <item value="t Input Steam" />
-      <item value="get Input Steam" />
-      <item value="Input Steam" />
-      <item value="get Out Input Steam" />
-      <item value="app File Download Config" />
-      <item value="get Download Url" />
-      <item value="party Build" />
-      <item value="文化建设" />
-      <item value="list Cultural" />
-      <item value="get Holiday Num" />
-      <item value="available" />
-      <item value="type Get By Module" />
-      <item value="Conver" />
-      <item value="restord Word" />
+      <item value="region Matches" />
+      <item value="gion Matches(" />
+      <item value="equals Ignore Case" />
+      <item value="server Sign" />
+      <item value="create New File" />
+      <item value="get Parent File" />
+      <item value="Create a new empty file with the given pathname. Return &lt;code&gt;true&lt;code&gt; if the file was created and &lt;code&gt;false&lt;code&gt; if a file or directory with the given pathname already exists. Throw an IOException if an IO error occurs." />
+      <item value="create File Exclusively" />
+      <item value="Tests whether the application can execute the file denoted by this abstract pathname. On some platforms it may be possible to start the Java virtual machine with special privileges that allow it to execute files that are not marked executable. Consequently this method may return true even though the file does not have execute permissions." />
+      <item value="can Execute" />
+      <item value="The length of this abstract pathname's prefix, or zero if it has no prefix." />
+      <item value="Returns the abstract pathname of this abstract pathname's parent, or null if this pathname does not name a parent directory." />
+      <item value="prefix Length" />
+      <item value="the system-dependent filename" />
+      <item value="Creates a file output stream to write to the file with the specified name. A new FileDescriptor object is created to represent this file connection. First, if there is a security manager, its checkWrite method is called with name as its argument. If the file exists but is a directory rather than a regular file, does not exist but cannot be created, or cannot be opened for any other reason then a FileNotFoundException is thrown." />
+      <item value="File Output Stream" />
+      <item value="dir Path" />
+      <item value="evaluate" />
+      <item value="Creates a file output stream to write to the file with the specified name. A new &lt;code&gt;FileDescriptor&lt;code&gt; object is created to represent this file connection." />
+      <item value="This application has no explicit mapping for error, so you are seeing this as a fallback" />
+      <item value="get File Type" />
+      <item value="get File Path" />
+      <item value="upload" />
+      <item value="dowmload Attach" />
+      <item value="attach Dto" />
+      <item value="input To Output" />
+      <item value="nput To Output(" />
+      <item value="pull Doc Attach" />
+      <item value="get Task Comments" />
+      <item value="MINUTES" />
+      <item value="save Comments" />
+      <item value="保存意见" />
+      <item value="意见" />
+      <item value="get Tran Time" />
+      <item value="get Handler User Name" />
+      <item value="ser Name(" />
+      <item value="ndler Name;" />
+      <item value="handler Dept Name" />
+      <item value="top Name" />
+      <item value="send Time" />
+      <item value="end Time;" />
+      <item value="receiver" />
+      <item value="receiver Name" />
+      <item value="ver Name;" />
+      <item value="handler Name" />
+      <item value="act Name" />
+      <item value="eiver Name;" />
+      <item value="audit Order" />
+      <item value="Complete" />
+      <item value="get Attach Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="576" />
-        <entry key="ENGLISH" value="577" />
+        <entry key="CHINESE" value="526" />
+        <entry key="ENGLISH" value="527" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="FILIPINO" value="1" />
-        <entry key="ROMANIAN" value="1" />
         <entry key="MALAGASY" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="TURKISH" value="2" />
-        <entry key="UZBEK" value="1" />
         <entry key="GREEK" value="2" />
         <entry key="IGBO" value="1" />
         <entry key="ITALIAN" value="1" />
@@ -78,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666246341536" />
+    <option name="lastTrimTime" value="1663036909067" />
   </component>
 </application>

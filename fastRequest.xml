@@ -26,7 +26,7 @@
             <list>
               <HostGroup>
                 <option name="env" value="dev" />
-                <option name="url" value="http://localhost:7520" />
+                <option name="url" value="" />
               </HostGroup>
               <HostGroup>
                 <option name="env" value="remote" />
@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2NzQ4NDQwMywiaWF0IjoxNjY3NDU1NjAzLCJqdGkiOiJsZ2FmNjkzYjU5NTZjOTRlYzY5MzM5NzUyMmYyMjI4YSJ9.sLtvURTHywJNM5jrZjGskeU1O73vPwZoOD42u-YkNWuf3Iay3Im8WCXUs15Pr1kraXT205rY3Q41g2PBYWdi8w" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2MzA4NTg2MywiaWF0IjoxNjYzMDU3MDYzLCJqdGkiOiJsZzIyZTc1MjQxNDcxOTQ5YjliNDU3NTUwMGU3NjY0YiJ9.lDWdoY8ar2UTJYTxX7JA128or0Gk6nTxo83ci7B_sBZDifJ42q9AOxF5bcTuH7bbIXWYxAVnkTPh1Sz1o-jwZQ" />
                   </map>
                 </value>
               </entry>
@@ -172,14 +172,6 @@
         <HeaderGroup>
           <option name="envMap">
             <map>
-              <entry key="dev">
-                <value>
-                  <map>
-                    <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJiMjY2YjFkNTJkNTA0Zjk5YWY5MGY4OTUzNzQ5ZWExNyIsImV4cCI6MTY2NDM1OTgyMiwiaWF0IjoxNjY0MzU4MDIyLCJqdGkiOiJsZ2RiMjFkZTlkYzVmNDQ0MzA5OTliODU2OGY3ZGJiNSJ9.nusiuLnyo_t9EANy3cJHVVr4JMhrC-QMlM8RJbvIvNk8ZVEq-g21WkND_8U_u3Q86J_4M7yiXvBQgzESLYMsRA" />
-                  </map>
-                </value>
-              </entry>
               <entry key="localhost">
                 <value>
                   <map>
@@ -196,13 +188,27 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.gzw.GzwController" />
-        <option name="method" value="export" />
-        <option name="methodDescription" value="导出" />
-        <option name="methodType" value="GET" />
+        <option name="className" value="com.ot.oa.admin.controller.MailController" />
+        <option name="method" value="insertSignature" />
+        <option name="methodDescription" value="邮箱设置-添加个性签名" />
+        <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/mail/signature" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="signContent">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="signName">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="url" value="/mail/signature" />
       </ParamGroup>
     </option>
     <option name="projectList">
