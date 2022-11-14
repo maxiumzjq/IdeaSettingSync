@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="contract" />
       <item value="region Matches" />
       <item value="gion Matches(" />
       <item value="equals Ignore Case" />
@@ -54,7 +55,6 @@
       <item value="eiver Name;" />
       <item value="audit Order" />
       <item value="Complete" />
-      <item value="get Attach Id" />
     </histories>
     <option name="languageScores">
       <map>
