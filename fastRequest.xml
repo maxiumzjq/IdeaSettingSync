@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2MzA4NTg2MywiaWF0IjoxNjYzMDU3MDYzLCJqdGkiOiJsZzIyZTc1MjQxNDcxOTQ5YjliNDU3NTUwMGU3NjY0YiJ9.lDWdoY8ar2UTJYTxX7JA128or0Gk6nTxo83ci7B_sBZDifJ42q9AOxF5bcTuH7bbIXWYxAVnkTPh1Sz1o-jwZQ" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJiN2NmYzQzMzAyNTc0YTk4Yjg1MzI5YjcwMWE5ZjQ5OCIsImV4cCI6MTY2ODUwNTg2MCwiaWF0IjoxNjY4NDc3MDYwLCJqdGkiOiJsZ2I0NWRmYjY0YzFlODQxM2M4YzYyYTIyOGRjZDI0MSJ9.8QNl3MIYoMnwJPQhh--DHklXtEXgHXHDZNeI-XjqMOZBAyS-1Gw6ByC-utN70dgD_yrY5fcjfyLgY7jXkEkyTQ" />
                   </map>
                 </value>
               </entry>
@@ -188,27 +188,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.MailController" />
-        <option name="method" value="insertSignature" />
-        <option name="methodDescription" value="邮箱设置-添加个性签名" />
+        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
+        <option name="method" value="searchAttach1" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="" />
-        <option name="requestParamMap">
-          <map>
-            <entry key="signContent">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="signName">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="url" value="" />
+        <option name="originUrl" value="elastic/attach1" />
+        <option name="url" value="/elastic/attach1" />
       </ParamGroup>
     </option>
     <option name="projectList">
