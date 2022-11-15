@@ -202,8 +202,8 @@
         <option name="methodDescription" value="公共的分页查询接口 分页参数分别为：size,page 查询条件参数使用QueryType中定义的类型" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/oa/workflow/page/to-read" />
-        <option name="url" value="/oa/workflow/page/to-read" />
+        <option name="originUrl" value="" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
