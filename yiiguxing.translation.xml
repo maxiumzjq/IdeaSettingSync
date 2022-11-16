@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="cancel Leave Time" />
       <item value="contract" />
       <item value="region Matches" />
       <item value="gion Matches(" />
@@ -54,7 +55,6 @@
       <item value="act Name" />
       <item value="eiver Name;" />
       <item value="audit Order" />
-      <item value="Complete" />
     </histories>
     <option name="languageScores">
       <map>
