@@ -188,13 +188,32 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.FullOfficeHolidayFlowController" />
-        <option name="method" value="getLeftLeave" />
-        <option name="methodDescription" value="获取当前用户的可申请年假天数" />
-        <option name="methodType" value="GET" />
+        <option name="className" value="com.ot.oa.admin.controller.AnnualLeaveController" />
+        <option name="method" value="listAnnualLeave" />
+        <option name="methodDescription" value="查询年假管理信息" />
+        <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/FullOfficeHolidayFlow/getLeftLeave" />
-        <option name="url" value="/FullOfficeHolidayFlow/getLeftLeave" />
+        <option name="originUrl" value="/annualLeave/" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="orgId">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="searchWord">
+              <value>
+                <Object />
+              </value>
+            </entry>
+            <entry key="year">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="url" value="/annualLeave/" />
       </ParamGroup>
     </option>
     <option name="projectList">
