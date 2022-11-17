@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2ODU5MjYyMSwiaWF0IjoxNjY4NTYzODIxLCJqdGkiOiJsZ2YwYzMzMDI4MzM1MDRjMzJiMTI0YTE1OGRjN2UyMiJ9.qXKy48DxSUo1lJ7iHsGY3Ncn--rh4qbqxzbMtzNch6mzMIowSCbS2fYTKimqOu6mMlk8OOto1UXUcTozuTPUKA" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY2ODY5NDM1NCwiaWF0IjoxNjY4NjY1NTU0LCJqdGkiOiJsZzdmZjM3ZGExNjVmZTQ2Y2I4Y2RlNmE0ODExMzk2MCJ9.aFu0RWyxxs_S_5uk_JZzS3gafQjUxqvRYg6x23H_kSbKMcl1He2t-q46c-E7q9kBh_jsbKh44AGvHSg9Lg6fpw" />
                   </map>
                 </value>
               </entry>
@@ -188,32 +188,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.AnnualLeaveController" />
-        <option name="method" value="listAnnualLeave" />
-        <option name="methodDescription" value="查询年假管理信息" />
+        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
+        <option name="method" value="searchAttach1" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/annualLeave/" />
-        <option name="requestParamMap">
-          <map>
-            <entry key="orgId">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="searchWord">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="year">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="url" value="/annualLeave/" />
+        <option name="originUrl" value="elastic/attach1" />
+        <option name="url" value="/elastic/attach1" />
       </ParamGroup>
     </option>
     <option name="projectList">
