@@ -115,7 +115,7 @@
       </list>
     </option>
     <option name="domain" value="http://localhost:7481" />
-    <option name="enableEnv" value="dev" />
+    <option name="enableEnv" value="localhost" />
     <option name="enableProject" value="oa" />
     <option name="envList">
       <list>
@@ -193,7 +193,7 @@
         <option name="methodDescription" value="" />
         <option name="methodType" value="GET" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/workflowSuggestion/getTaskComments/{processId}" />
+        <option name="originUrl" value="" />
         <option name="pathParamMap">
           <map>
             <entry key="processId">
@@ -203,7 +203,7 @@
             </entry>
           </map>
         </option>
-        <option name="url" value="/workflowSuggestion/getTaskComments/15196" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
