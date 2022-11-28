@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="478" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="update Info FROM Elastic Role" />
       <item value="parse" />
       <item value="– If true, then values will not be coerced into boolean or numeric values and will instead be left as strings" />
       <item value="xt Node(" />
@@ -54,7 +55,6 @@
       <item value="send Time" />
       <item value="end Time;" />
       <item value="receiver" />
-      <item value="receiver Name" />
     </histories>
     <option name="languageScores">
       <map>
