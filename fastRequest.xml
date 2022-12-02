@@ -188,22 +188,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.WorkflowSuggestionController" />
-        <option name="method" value="getTaskComments" />
-        <option name="methodDescription" value="获取意见历史记录" />
+        <option name="className" value="com.ot.oa.admin.controller.FullOfficeHolidayFlowController" />
+        <option name="method" value="getLeftLeave" />
+        <option name="methodDescription" value="获取当前用户的可申请年假天数" />
         <option name="methodType" value="GET" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/workflowSuggestion/getTaskComments/{processId}" />
-        <option name="pathParamMap">
-          <map>
-            <entry key="processId">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="url" value="/workflowSuggestion/getTaskComments/96" />
+        <option name="originUrl" value="/FullOfficeHolidayFlow/getLeftLeave" />
+        <option name="url" value="/FullOfficeHolidayFlow/getLeftLeave" />
       </ParamGroup>
     </option>
     <option name="projectList">
