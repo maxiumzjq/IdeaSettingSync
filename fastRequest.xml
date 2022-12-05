@@ -193,8 +193,8 @@
         <option name="methodDescription" value="表单获取调休额度" />
         <option name="methodType" value="GET" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/leaveInLieu/getCredits" />
-        <option name="url" value="/leaveInLieu/getCredits" />
+        <option name="originUrl" value="" />
+        <option name="url" value="" />
       </ParamGroup>
     </option>
     <option name="projectList">
