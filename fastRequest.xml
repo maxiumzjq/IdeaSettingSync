@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzNjgyZjg5NjAyYjU0NWQ3OTA5NDEyNTRlYzhmZjEzNCIsImV4cCI6MTY2OTk3MjUxMSwiaWF0IjoxNjY5OTQzNzExLCJqdGkiOiJsZzRkYzdlMDUzNTUzYzQxZGQ5ZjIxZjJlYzgwMGEyZSJ9.kCL58QyVw-M-J9DiT8yeLgJqlU7t-0PXgM8_wc4JFEuuCFrrhmunFcJQ-sLfxvREMd5UjNiTQvhpbsIkVeYd_w" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzN2FmNjUwZjk4N2U0NTc4ODU0NmE0NGU2Y2UwNzgwNyIsImV4cCI6MTY3MDg1NjQ0MSwiaWF0IjoxNjcwODI3NjQxLCJqdGkiOiJsZzFjMzVjYWQzN2IwMDRhNWNiZmU5NDQ1ZDc1MzY1YiJ9.MY9rOHnIYQH7lV0_4vSAv8Hnjx7bUQnYPqAeg-BnztADZK8_wdNU7r8Pp3UzNbLaUtDXUZgNu__0zb6ONCmvkg" />
                   </map>
                 </value>
               </entry>
@@ -188,13 +188,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.LeaveInLieuController" />
-        <option name="method" value="getCredits" />
-        <option name="methodDescription" value="表单获取调休额度" />
-        <option name="methodType" value="GET" />
+        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
+        <option name="method" value="searchAttach1" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="originUrl" value="elastic/attach1" />
+        <option name="url" value="/elastic/attach1" />
       </ParamGroup>
     </option>
     <option name="projectList">
