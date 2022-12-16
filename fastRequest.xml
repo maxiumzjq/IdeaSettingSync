@@ -115,8 +115,8 @@
       </list>
     </option>
     <option name="domain" value="http://localhost:7481" />
-    <option name="enableEnv" value="dev" />
-    <option name="enableProject" value="lo" />
+    <option name="enableEnv" value="localhost" />
+    <option name="enableProject" value="oa" />
     <option name="envList">
       <list>
         <option value="dev" />
@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY3MTA5ODAwNiwiaWF0IjoxNjcxMDY5MjA2LCJqdGkiOiJsZ2YwMzAyMTQ3ZTY3MjRhNmFiYTAwZjVlNjIxMGVmZiJ9.rq25iz3mAUc2x_OausRCrStxjsZLKcmSWY-C41YFAUFZRBHDvr78jz4-YFRXFUDJG4WQbjAyWs66cW10p-kGEg" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY3MTE4NjY4NiwiaWF0IjoxNjcxMTU3ODg2LCJqdGkiOiJsZzdjY2YzY2NiNmMwOTQyNDRhYTczNzQwYzY2MWEzOCJ9.9YC4ZDA7Ip9ppLdh14CFWsVSOWP_JX23J9nGaDkQLGp9bKNOM6gbm7q9onpn-DoBkksO-Oznypfw-O1OyyutcA" />
                   </map>
                 </value>
               </entry>
