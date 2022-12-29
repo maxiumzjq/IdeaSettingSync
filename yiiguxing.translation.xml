@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="259" />
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <histories>
+      <item value="Package 'com.alibaba:fastjson' can be upgraded to version '2.0.21.graal'" />
+      <item value="Package 'cn.hutool:hutool-all' can be upgraded to version '5.8.10'" />
       <item value="is Re Push" />
       <item value="push Public Doc Sign" />
       <item value="get Database Name" />
@@ -53,12 +55,10 @@
       <item value="input To Output" />
       <item value="nput To Output(" />
       <item value="pull Doc Attach" />
-      <item value="get Task Comments" />
-      <item value="MINUTES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="527" />
+        <entry key="CHINESE" value="528" />
         <entry key="ENGLISH" value="527" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
@@ -76,6 +76,14 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663036909067" />
+    <option name="lastTrimTime" value="1672295054075" />
+  </component>
+  <component name="Settings">
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="7f5c8d6b5c8d1da4" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
