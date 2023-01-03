@@ -114,8 +114,8 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:7481" />
-    <option name="enableEnv" value="localhost" />
+    <option name="domain" value="http://localhost:7480" />
+    <option name="enableEnv" value="dev" />
     <option name="enableProject" value="oa" />
     <option name="envList">
       <list>
