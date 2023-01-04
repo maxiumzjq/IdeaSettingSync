@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <histories>
+      <item value="type=es_rejected_execution_exception, reason=Could not obtain lock because policy execution for [attach-policy] is already in progress" />
+      <item value="IO dispatcher 1" />
       <item value="max length" />
       <item value="actual length:" />
       <item value="bulk Processor From" />
@@ -53,13 +55,11 @@
       <item value="evaluate" />
       <item value="Creates a file output stream to write to the file with the specified name. A new &lt;code&gt;FileDescriptor&lt;code&gt; object is created to represent this file connection." />
       <item value="This application has no explicit mapping for error, so you are seeing this as a fallback" />
-      <item value="get File Type" />
-      <item value="get File Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="531" />
-        <entry key="ENGLISH" value="532" />
+        <entry key="CHINESE" value="533" />
+        <entry key="ENGLISH" value="534" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
