@@ -114,7 +114,7 @@
         </DataMapping>
       </list>
     </option>
-    <option name="domain" value="http://localhost:7480" />
+    <option name="domain" value="http://localhost:7481" />
     <option name="enableEnv" value="dev" />
     <option name="enableProject" value="oa" />
     <option name="envList">
@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY3MTE4NjY4NiwiaWF0IjoxNjcxMTU3ODg2LCJqdGkiOiJsZzdjY2YzY2NiNmMwOTQyNDRhYTczNzQwYzY2MWEzOCJ9.9YC4ZDA7Ip9ppLdh14CFWsVSOWP_JX23J9nGaDkQLGp9bKNOM6gbm7q9onpn-DoBkksO-Oznypfw-O1OyyutcA" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY3MjgyNDI4OCwiaWF0IjoxNjcyNzk1NDg4LCJqdGkiOiJsZ2JmOThlYzdjMjY1MTRiNjk4Y2QxYzZkZjg3ZjkzNCJ9.m17OaVCROJnwlqj8YhIYj_wdCwBTTofswXanaHpsdUfCMk6UgjseodefqVQ1fDqfth04o7tV4l1p2yli2lM_Cg" />
                   </map>
                 </value>
               </entry>
@@ -188,13 +188,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
-        <option name="method" value="testPush" />
+        <option name="className" value="com.ot.oa.admin.controller.MeetingRoomInfoController" />
+        <option name="method" value="listPage" />
         <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="" />
-        <option name="url" value="" />
+        <option name="originUrl" value="/meetingroominfo/page" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="searchWord">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="url" value="/meetingroominfo/page" />
       </ParamGroup>
     </option>
     <option name="projectList">
