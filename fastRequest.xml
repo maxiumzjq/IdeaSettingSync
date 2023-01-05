@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIzNjgyZjg5NjAyYjU0NWQ3OTA5NDEyNTRlYzhmZjEzNCIsImV4cCI6MTY3Mjg0NjA3MiwiaWF0IjoxNjcyODE3MjcyLCJqdGkiOiJsZ2M2YTE2MmViY2UwZjQ1NjA5NDUzYTAzNGMzYzJkMiJ9.TTk5SFQ_jwOKGU5WR-2T8l64gIKVAe0Nkpb16brGwdBEgUIqr9PDeZxYHt6-mQLNnH3UCUCWrUw5jNjvlcrh-A" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY3MjkyOTAyMywiaWF0IjoxNjcyOTAwMjIzLCJqdGkiOiJsZzU5YzljM2U4NDBkMzRlMDM5ZWVlNjBmYzA3M2MyNiJ9.-im_pgh8hJ2s48ZpH1ghgTDOTqdLF81pkHfBaWrjCZH0TD8qIsBVUGzD3rjINYfrAMVyzSqsvtReDXSZAo82aA" />
                   </map>
                 </value>
               </entry>
@@ -188,22 +188,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.WorkflowSuggestionController" />
-        <option name="method" value="getTaskComments" />
-        <option name="methodDescription" value="获取意见历史记录" />
-        <option name="methodType" value="GET" />
+        <option name="className" value="com.ot.oa.admin.controller.MeetingRoomInfoController" />
+        <option name="method" value="listPage" />
+        <option name="methodDescription" value="" />
+        <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/workflowSuggestion/getTaskComments/{processId}" />
-        <option name="pathParamMap">
+        <option name="originUrl" value="/meetingroominfo/page" />
+        <option name="requestParamMap">
           <map>
-            <entry key="processId">
+            <entry key="searchWord">
               <value>
                 <Object />
               </value>
             </entry>
           </map>
         </option>
-        <option name="url" value="/workflowSuggestion/getTaskComments/bc4e7bde628444f7b3eff7654b3a73ab" />
+        <option name="url" value="/meetingroominfo/page" />
       </ParamGroup>
     </option>
     <option name="projectList">
