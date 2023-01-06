@@ -2,4 +2,7 @@
   <action id="GoToLastTab">
     <keyboard-shortcut first-keystroke="ctrl alt 9" />
   </action>
+  <action id="GoToTab1">
+    <keyboard-shortcut first-keystroke="ctrl alt 1" />
+  </action>
 </keymap>
