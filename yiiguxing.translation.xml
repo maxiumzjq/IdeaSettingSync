@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <histories>
+      <item value="Parent hit's score is the sum of all child scores." />
+      <item value="Parent hit's score is the min of all child scores." />
+      <item value="Parent hit's score is the max of all child scores." />
+      <item value="Parent hit's score is the average of all child scores." />
+      <item value="Do no scoring" />
+      <item value="None," />
       <item value="score Mode" />
       <item value="Score Mode" />
       <item value="Data too long for column 'bookerId' at row 1" />
@@ -49,17 +55,11 @@
       <item value="create Text Node" />
       <item value="cancel Leave Time" />
       <item value="contract" />
-      <item value="region Matches" />
-      <item value="gion Matches(" />
-      <item value="equals Ignore Case" />
-      <item value="server Sign" />
-      <item value="create New File" />
-      <item value="get Parent File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="547" />
-        <entry key="ENGLISH" value="548" />
+        <entry key="CHINESE" value="553" />
+        <entry key="ENGLISH" value="554" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
