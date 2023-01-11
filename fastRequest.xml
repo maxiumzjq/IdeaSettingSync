@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY3MzM2MzI4OCwiaWF0IjoxNjczMzM0NDg4LCJqdGkiOiJsZzU2MTgzZDU2M2JmZDQwNmY4ODA1ZjM3ZThhOWRlMyJ9.4rwBRo3nL9q0ER1P65Xmab6MrNf58dJzhU1mPstWuiNrSbvqgBM_o8NTJ-MnLHSqEf0bi7ZtCdj7ghYIQHc-VA" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY3MzQzNDMzNywiaWF0IjoxNjczNDA1NTM3LCJqdGkiOiJsZ2YyOTY5MmQ5MTFlYzRjNmNiMjBlMTQ3YjZjOWIxYyJ9.tMHRVCmXiTmq4OyeBaaVJsJYREXf4v76TExox4kLpUNVl7d0kqhvp2_bdWXTZtA9z60DRiOt3Fkrt8iNqTo_SQ" />
                   </map>
                 </value>
               </entry>
@@ -188,13 +188,22 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.zjq.elasticsearch.controller.ElasticsearchController" />
-        <option name="method" value="search" />
-        <option name="methodDescription" value="" />
-        <option name="methodType" value="GET" />
-        <option name="module" value="elasticsearch" />
-        <option name="originUrl" value="/elastic/search" />
-        <option name="url" value="/elastic/search" />
+        <option name="className" value="com.ot.oa.admin.controller.mobile.MobilePersonalCalendarController" />
+        <option name="method" value="getMeetingList" />
+        <option name="methodDescription" value="会议日历" />
+        <option name="methodType" value="POST" />
+        <option name="module" value="oa-admin" />
+        <option name="originUrl" value="/mobile/personalcalendar/meetinglist" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="search">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="url" value="/mobile/personalcalendar/meetinglist" />
       </ParamGroup>
     </option>
     <option name="projectList">
