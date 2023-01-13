@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <histories>
+      <item value="Return an empty map instead of null." />
+      <item value="conversion To Map" />
       <item value="search To Index" />
       <item value="search From Index" />
       <item value="From Index(" />
@@ -53,13 +55,11 @@
       <item value="sdf " />
       <item value="update Info FROM Elastic Role" />
       <item value="parse" />
-      <item value="– If true, then values will not be coerced into boolean or numeric values and will instead be left as strings" />
-      <item value="xt Node(" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="555" />
-        <entry key="ENGLISH" value="556" />
+        <entry key="CHINESE" value="557" />
+        <entry key="ENGLISH" value="557" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
