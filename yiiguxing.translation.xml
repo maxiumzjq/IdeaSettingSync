@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <histories>
+      <item value="Method invocation 'getCode' may produce 'NullPointerException'" />
+      <item value="A dead store happens when a local variable is assigned a value that is not read by any subsequent instruction. Calculating or retrieving a value only to then overwrite it or throw it away, could indicate a serious error in the code. Even if it’s not an error, it is at best a waste of resources. Therefore all calculated values should be used." />
       <item value="Data too long for column 'mailUserId' at row 1" />
       <item value="Return an empty map instead of null." />
       <item value="conversion To Map" />
@@ -53,12 +55,10 @@
       <item value="get User By Account" />
       <item value="get Orgunits By User Id" />
       <item value="Connection failure occurred: org.springframework.data.redis.RedisConnectionFailureException: java.net.SocketException: Software caused connection abort: recv failed; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: java.net.SocketException: Software caused connection abort: recv failed. Restarting subscription task after 5000 ms." />
-      <item value="sdf " />
-      <item value="update Info FROM Elastic Role" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="557" />
+        <entry key="CHINESE" value="559" />
         <entry key="ENGLISH" value="558" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1673321964767" />
+    <option name="lastTrimTime" value="1673850997651" />
   </component>
 </application>
