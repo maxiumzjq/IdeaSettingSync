@@ -188,37 +188,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.mobile.MobileElasticsearchController" />
-        <option name="method" value="searchFromIndex" />
-        <option name="methodDescription" value="根据索引类型查询" />
+        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
+        <option name="method" value="testPush" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/mobile/elastic/searchFromIndex" />
-        <option name="requestParamMap">
-          <map>
-            <entry key="from">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="searchWord">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="size">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="workType">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="url" value="/mobile/elastic/searchFromIndex" />
+        <option name="originUrl" value="elastic/testPush" />
+        <option name="url" value="/elastic/testPush" />
       </ParamGroup>
     </option>
     <option name="projectList">
