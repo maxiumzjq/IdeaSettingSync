@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <histories>
+      <item value="The highlighted fragments. null if failed to highlight (for example, the field is not stored)." />
       <item value="time Value Seconds" />
       <item value="time Value Minutes" />
       <item value="get By Code" />
@@ -54,12 +55,11 @@
       <item value="Leave In Lieu" />
       <item value="Caused by: org.postgresql.util.PSQLException: ERROR: column &quot;oa_compensatoryleave.useraccount&quot; must appear in the GROUP BY clause or be used in an aggregate function" />
       <item value="exclude Fields" />
-      <item value="QUERY THEN FETCH" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="560" />
-        <entry key="ENGLISH" value="561" />
+        <entry key="CHINESE" value="561" />
+        <entry key="ENGLISH" value="562" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
