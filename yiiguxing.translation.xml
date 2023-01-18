@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <histories>
+      <item value="time Value Seconds" />
+      <item value="time Value Minutes" />
       <item value="get By Code" />
       <item value="Method invocation 'getCode' may produce 'NullPointerException'" />
       <item value="A dead store happens when a local variable is assigned a value that is not read by any subsequent instruction. Calculating or retrieving a value only to then overwrite it or throw it away, could indicate a serious error in the code. Even if it’s not an error, it is at best a waste of resources. Therefore all calculated values should be used." />
@@ -53,13 +55,11 @@
       <item value="Caused by: org.postgresql.util.PSQLException: ERROR: column &quot;oa_compensatoryleave.useraccount&quot; must appear in the GROUP BY clause or be used in an aggregate function" />
       <item value="exclude Fields" />
       <item value="QUERY THEN FETCH" />
-      <item value="get User By Account" />
-      <item value="get Orgunits By User Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="559" />
-        <entry key="ENGLISH" value="559" />
+        <entry key="CHINESE" value="560" />
+        <entry key="ENGLISH" value="561" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
