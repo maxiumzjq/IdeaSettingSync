@@ -5,11 +5,14 @@
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <histories>
+      <item value="SECONDS" />
+      <item value="time Value Seconds" />
+      <item value="set Concurrent Requests" />
+      <item value="set Bulk Actions" />
       <item value="52952" />
       <item value="Index the Map as the provided content type." />
       <item value="SMILE" />
       <item value="The highlighted fragments. null if failed to highlight (for example, the field is not stored)." />
-      <item value="time Value Seconds" />
       <item value="time Value Minutes" />
       <item value="get By Code" />
       <item value="Method invocation 'getCode' may produce 'NullPointerException'" />
@@ -52,14 +55,11 @@
       <item value="Package 'com.alibaba:fastjson' can be upgraded to version '2.0.21.graal'" />
       <item value="Package 'cn.hutool:hutool-all' can be upgraded to version '5.8.10'" />
       <item value="is Re Push" />
-      <item value="push Public Doc Sign" />
-      <item value="get Database Name" />
-      <item value="oa pg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="565" />
-        <entry key="ENGLISH" value="564" />
+        <entry key="CHINESE" value="566" />
+        <entry key="ENGLISH" value="567" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
