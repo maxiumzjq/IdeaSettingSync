@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <histories>
+      <item value="timeout" />
+      <item value="Leave this request open until a refresh has made the contents of this request visible to search. This refresh policy is compatible with high indexing and search throughput but it causes the request to wait to reply until a refresh o" />
+      <item value="NONE" />
+      <item value="IMMEDIATE" />
       <item value="update Document" />
       <item value="SECONDS" />
       <item value="time Value Seconds" />
@@ -51,15 +55,11 @@
       <item value="actual length:" />
       <item value="bulk Processor From" />
       <item value="three" />
-      <item value="Index Request" />
-      <item value="source" />
-      <item value="Package 'com.alibaba:fastjson' can be upgraded to version '2.0.21.graal'" />
-      <item value="Package 'cn.hutool:hutool-all' can be upgraded to version '5.8.10'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="567" />
-        <entry key="ENGLISH" value="568" />
+        <entry key="CHINESE" value="570" />
+        <entry key="ENGLISH" value="571" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
