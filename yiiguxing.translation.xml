@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <histories>
+      <item value="com.alibaba.fastjson2.JSONException: offset 2, character e, line 1, column 3, fastjson-version 2.0.7" />
       <item value="split" />
       <item value="to Lower Case" />
       <item value="A filter for a field based on several terms matching on any of them." />
@@ -54,12 +55,11 @@
       <item value="list Meeting Room" />
       <item value="list Room" />
       <item value="list By Bu Type And Bu Id" />
-      <item value="type=es_rejected_execution_exception, reason=Could not obtain lock because policy execution for [attach-policy] is already in progress" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="575" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="CHINESE" value="576" />
+        <entry key="ENGLISH" value="577" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
