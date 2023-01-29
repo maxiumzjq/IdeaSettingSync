@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <histories>
+      <item value="split" />
+      <item value="to Lower Case" />
+      <item value="A filter for a field based on several terms matching on any of them." />
+      <item value="cannot write xcontent for unknown value of type class java.util.Optional" />
       <item value="; nested: ElasticsearchException[Elasticsearch exception [type=script_exception, reason=compile error]]; nested: ElasticsearchException[Elasticsearch exception [type=illegal_argument_exception, reason=unexpected token ['&quot; if ( ctx._source.buid.contains(params.tag) ) { ctx._source.counter += 1 } else { ctx._source.buid.add(params.tag) } &quot;'] was expecting one of [{&lt;EOF&gt;, ';'}].]];" />
       <item value="timeout" />
       <item value="Leave this request open until a refresh has made the contents of this request visible to search. This refresh policy is compatible with high indexing and search throughput but it causes the request to wait to reply until a refresh o" />
@@ -51,15 +55,11 @@
       <item value="list Room" />
       <item value="list By Bu Type And Bu Id" />
       <item value="type=es_rejected_execution_exception, reason=Could not obtain lock because policy execution for [attach-policy] is already in progress" />
-      <item value="IO dispatcher 1" />
-      <item value="max length" />
-      <item value="actual length:" />
-      <item value="bulk Processor From" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="571" />
-        <entry key="ENGLISH" value="572" />
+        <entry key="CHINESE" value="575" />
+        <entry key="ENGLISH" value="576" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
