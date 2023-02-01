@@ -153,7 +153,7 @@
                 <value>
                   <map>
                     <entry key="Accept-Sign-Ignore" value="BIGBIGGIRL" />
-                    <entry key="x-auth-token" value=" eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY3NTE1NzEyNiwiaWF0IjoxNjc1MTI4MzI2LCJqdGkiOiJsZzc0NjAwZWEyZWRkYjQ3NjNiNThmNmI0NGU1N2IwZSJ9.BbHcHUEeI1mbT052THGW6AzMMODV3aTkiCoXBAjF71z4uhnYt6CJlZBp99hb8diQV4edgrXd7MrDfJCNqcSj2w" />
+                    <entry key="x-auth-token" value="eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiI3YzI0YzI3ZTNhZWE0NmY2YWZmMmU5YzAxYjZjN2VkYyIsImV4cCI6MTY3NTI0ODkyMywiaWF0IjoxNjc1MjIwMTIzLCJqdGkiOiJsZ2U5OTllMDVhODk1NzRjYjVhZjE1YmMwNjc4NGIzYyJ9.GrIRzlAUMYuFsSkR1Z2nPMZzqkUvVHapJlCxO4QbjN-3Hw847kRQz_g7V5W7iAzrxRnf4t4Vy3aQeR5LtEwtsw" />
                   </map>
                 </value>
               </entry>
@@ -188,42 +188,13 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
-        <option name="className" value="com.ot.oa.admin.controller.mobile.MobileElasticsearchController" />
-        <option name="method" value="searchAttach" />
-        <option name="methodDescription" value="查询附件" />
+        <option name="className" value="com.ot.oa.admin.controller.ElasticsearchController" />
+        <option name="method" value="testPush" />
+        <option name="methodDescription" value="" />
         <option name="methodType" value="POST" />
         <option name="module" value="oa-admin" />
-        <option name="originUrl" value="/mobile/elastic/attach" />
-        <option name="requestParamMap">
-          <map>
-            <entry key="butype">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="page">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="searchType">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="searchWord">
-              <value>
-                <Object />
-              </value>
-            </entry>
-            <entry key="size">
-              <value>
-                <Object />
-              </value>
-            </entry>
-          </map>
-        </option>
-        <option name="url" value="/mobile/elastic/attach" />
+        <option name="originUrl" value="elastic/testPush" />
+        <option name="url" value="/elastic/testPush" />
       </ParamGroup>
     </option>
     <option name="projectList">
