@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <histories>
+      <item value="network Manage Anno" />
+      <item value="Manage Anno" />
       <item value="mail To" />
       <item value="set Receiver" />
       <item value="failed to parse field" />
@@ -53,13 +55,11 @@
       <item value="is Booked" />
       <item value="是否被预订" />
       <item value="预订" />
-      <item value="insert Meeting Resource" />
-      <item value="is Occupy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="581" />
-        <entry key="ENGLISH" value="582" />
+        <entry key="CHINESE" value="582" />
+        <entry key="ENGLISH" value="583" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -71,7 +71,7 @@
         <entry key="TURKISH" value="2" />
         <entry key="GREEK" value="2" />
         <entry key="IGBO" value="1" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
       </map>
     </option>
   </component>
