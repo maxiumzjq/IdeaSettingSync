@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="708" />
     <option name="newTranslationDialogY" value="478" />
     <histories>
+      <item value="exists Index" />
       <item value="set Msg Code" />
       <item value="network Manage Anno" />
       <item value="Manage Anno" />
@@ -54,12 +55,11 @@
       <item value="Score Mode" />
       <item value="Data too long for column 'bookerId' at row 1" />
       <item value="is Booked" />
-      <item value="是否被预订" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="583" />
-        <entry key="ENGLISH" value="584" />
+        <entry key="CHINESE" value="585" />
+        <entry key="ENGLISH" value="586" />
         <entry key="AZERBAIJANI" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1674873490295" />
+    <option name="lastTrimTime" value="1675404357017" />
   </component>
 </application>
